@@ -24,3 +24,4 @@ theme:
 
 nav:
   - Início: index.md
+  - Pesquisadores: pesquisadores.md
