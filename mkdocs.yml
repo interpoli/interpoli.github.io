@@ -1,0 +1,26 @@
+site_name: Grupo de Pesquisa INTERPOLI
+site_description: Website oficial do laboratório INTERPOLI.
+
+theme:
+  name: material
+  palette:
+    # Tema claro e escuro automático baseado no sistema do usuário
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para modo claro
+  features:
+    - navigation.tabs # Menu horizontal bonito no topo
+
+nav:
+  - Início: index.md
