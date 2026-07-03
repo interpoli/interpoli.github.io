@@ -44,3 +44,22 @@ extra_css:
 nav:
   - Início: index.md
   - Pesquisadores: pesquisadores.md
+
+  extra:
+  # Altera o texto de Copyright para o seu nome com destaque
+  copyright: |
+    <span style="font-size: 16px; font-weight: 600; letter-spacing: 0.5px;">ALVES</span> 
+    <br>
+    <span style="font-size: 13px; opacity: 0.7;">Grupo de Pesquisa INTERPOLI</span>
+
+  # Adiciona os ícones de contato elegantes e organizados no canto inferior
+  social:
+    - icon: material/school      # Ícone universal para meio acadêmico/CNPq
+      link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
+      name: Diretório de Grupos de Pesquisa (CNPq)
+    - icon: material/email
+      link: mailto:interpoli@usp.br
+      name: Enviar E-mail
+    - icon: material/instagram
+      link: https://www.instagram.com/interpoliusp/
+      name: Instagram
