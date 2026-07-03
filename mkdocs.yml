@@ -45,16 +45,28 @@ nav:
   - Início: index.md
   - Pesquisadores: pesquisadores.md
 
-  extra:
+# ==========================================================================
+# TODAS AS CONFIGURAÇÕES EXTRAS UNIFICADAS E COM O ESPAÇAMENTO CORRETO
+# ==========================================================================
+extra:
+  analytics:
+    provider: google
+  custom_colors:
+    primary: "#1e366a"
+    
+  font:
+    text: Roboto
+    code: Roboto Mono
+
   # Altera o texto de Copyright para o seu nome com destaque
   copyright: |
-    <span style="font-size: 16px; font-weight: 600; letter-spacing: 0.5px;">ALVES</span> 
+    <span style="font-size: 18px; font-weight: 700; letter-spacing: 0.5px; color: #ffffff;">ALVES</span> 
     <br>
     <span style="font-size: 13px; opacity: 0.7;">Grupo de Pesquisa INTERPOLI</span>
 
   # Adiciona os ícones de contato elegantes e organizados no canto inferior
   social:
-    - icon: material/school      # Ícone universal para meio acadêmico/CNPq
+    - icon: material/school      # Ícone do CNPq
       link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
       name: Diretório de Grupos de Pesquisa (CNPq)
     - icon: material/email
