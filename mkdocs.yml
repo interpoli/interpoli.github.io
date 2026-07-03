@@ -22,7 +22,6 @@ theme:
         name: Mudar para modo claro
   features:
     - navigation.tabs # Menu horizontal bonito no topo
-    - navigation.expand # <-- ADICIONE APENAS ESTA LINHA PARA DEIXAR A TELA LARGA
 
 extra_css:
   - stylesheets/extra.css   # Link para o arquivo de cor de fundo que vamos criar agora
