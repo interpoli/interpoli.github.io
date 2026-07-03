@@ -4,7 +4,7 @@
 
 | Foto | Nome | Titulação | Instituição |
 | :---: | :--- | :--- | :--- |
-| <img src="../ednéia.png" width="90" style="border-radius:8px;"> | **Ednéia Silva Santos** <br> <a href="https://orcid.org/0000-0003-1478-6828"><img src="../orcid.png" width="18" height="18" style="vertical-align:middle; display:inline;"></a> <a href="http://lattes.cnpq.br/0671510926276134"><img src="../lattes.png" width="18" height="18" style="vertical-align:middle; display:inline;"></a> | Doutora | DEDIC-FFCLRP/USP e PPGCI-ECA/USP |
+| <img src="../ednéia.png" width="90" style="border-radius:8px;"> | **Ednéia Silva Santos** <br> <a href="https://orcid.org/0000-0003-1478-6828" target="_blank"><img src="../orcid.png" width="18" height="18" style="vertical-align:middle; display:inline;"></a> <a href="http://lattes.cnpq.br/0671510926276134" target="_blank"><img src="../lattes.png" width="18" height="18" style="vertical-align:middle; display:inline;"></a> | Doutora | DEDIC-FFCLRP/USP e PPGCI-ECA/USP |
 
 ---
 
