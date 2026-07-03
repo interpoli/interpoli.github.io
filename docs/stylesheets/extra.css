@@ -86,7 +86,7 @@
   width: 100%;
   max-width: 1000px;
   height: 100%;
-  background: url('../assets/background.jpg') no-repeat center; /* Verifique se o nome do arquivo está correto */
+  background: url('../assets/background.jp') no-repeat center; /* Verifique se o nome do arquivo está correto */
   background-size: cover;
   opacity: 0.1; /* Transparência do fundo abstrato */
   z-index: 1;
