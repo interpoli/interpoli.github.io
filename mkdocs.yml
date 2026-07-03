@@ -1,6 +1,3 @@
-site_name: Grupo de Pesquisa INTERPOLI
-site_description: Website oficial do laboratório INTERPOLI.
-
 theme:
   name: material
   palette:
@@ -22,10 +19,4 @@ theme:
         name: Mudar para modo claro
   features:
     - navigation.tabs # Menu horizontal bonito no topo
-
-extra_css:
-  - stylesheets/extra.css   # Link para o arquivo de cor de fundo que vamos criar agora
-
-nav:
-  - Início: index.md
-  - Pesquisadores: pesquisadores.md
+    - navigation.expand # <-- ADICIONE APENAS ESTA LINHA PARA DEIXAR A TELA LARGA
