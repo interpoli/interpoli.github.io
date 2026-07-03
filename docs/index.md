@@ -3,9 +3,11 @@ meta:
   class: homepage
 ---
 
+<div class="homepage-content">
+
 <div class="home-banner">
   <div class="home-banner-content">
-    <img src="./assets/logo.png" class="home-logo" alt="INTERPOLI Logo">
+    <img src="assets/logo.png" class="home-logo" alt="INTERPOLI Logo">
     <h1 class="home-title">BEM-VINDO AO INTERPOLI</h1>
     <p class="home-subtitle">
       Nós somos o Grupo de Pesquisa Informação de Política Científica e (INTERPOLI) e principal forma assim que nos estruturamos no ecossistema de pesquisa.
@@ -39,4 +41,6 @@ meta:
     <hr style="border: 0; border-top: 1px solid #b5b5b5; margin-bottom: 15px;">
     <a href="#" class="btn-dados-abertos">Dados Abertos</a>
   </div>
+</div>
+
 </div>
