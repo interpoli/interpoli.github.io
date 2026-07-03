@@ -53,40 +53,64 @@
   margin-top: 0 !important;
 }
 
+/* REMOVE A IMAGEM QUEBRADA DO CANTO ESQUERDO DA PÁGINA */
+.md-main__inner:has(.homepage-content) .md-content__inner > a {
+  display: none !important;
+}
+
 /* Container do Banner Inicial */
 .home-banner {
   position: relative;
   width: 100%;
   
   /* ALTERAR A ALTURA DESSA FAIXA AQUI (Ajuste os valores de padding) */
-  padding: 80px 20px;
+  padding: 60px 20px;
   
   /* ALTERAR A POSIÇÃO DO TEXTO INTERPOLI / ALINHAMENTO AQUI */
   text-align: center;
   
-  /* ALTERAR A COR DO FUNDO AQUI (Tom de azul claro com a mesma intensidade do cinza inferior) */
-  background-color: #dbe7f3; 
+  /* ALTERAR A COR DO FUNDO AQUI (Tom de azul claro ainda mais suave e limpo) */
+  background-color: #e6f0fa; 
   
   overflow: hidden;
 }
 
-/* Nota: O bloco ".home-banner::before" que carregava o background.jpg foi completamente removido daqui */
-
 .home-banner-content {
   position: relative;
   z-index: 2; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   
   /* INSERIR LOGO PEQUENO À ESQUERDA DO TEXTO FUTURAMENTE AQUI */
-  /* Dica: Para alinhar um logo ao lado do texto futuramente, você poderá transformar este 
-     container em um flexbox adicionando: display: flex; align-items: center; justify-content: center; */
 }
 
-/* Estilização do Logo e Títulos da Home */
+/* Força sumir com o texto "INTERPOLI Logo" e a marca de imagem quebrada do HTML antigo */
 .home-logo {
-  max-width: 220px;
+  visibility: hidden;
+  width: 220px;
+  height: 80px; /* Altere para a altura real do seu logo se necessário */
   margin: 0 auto 20px auto;
   display: block;
+  position: relative;
 }
+
+/* INJETA O SEU LOGO DIRETAMENTE VIA CSS PARA GARANTIR QUE APAREÇA NO CENTRO */
+.home-logo::after {
+  content: "";
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* Puxa o logo da pasta correta do MkDocs */
+  background: url('../assets/logo.png') no-repeat center;
+  background-size: contain;
+}
+
+/* Estilização do Título da Home */
 .home-title {
   font-size: 2.2rem;
   font-weight: 700;
