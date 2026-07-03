@@ -1,5 +1,7 @@
 site_name: Grupo de Pesquisa INTERPOLI
-site_description: Website oficial do laboratório INTERPOLI.
+site_url: https://interpoli.github.io/
+site_author: Larissa Alves
+site_description: Website oficial do laboratório INTERPOLI da Universidade de São Paulo
 
 theme:
   name: material
@@ -45,7 +47,7 @@ extra:
     provider: google
   custom_colors:
     primary: "#1e366a"
-  copyright: "© Grupo de Pesquisa INTERPOLI, Todos os direitos reservados"
+  
   social:
     - icon: material/database      # Ícone do CNPq
       link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
@@ -56,3 +58,10 @@ extra:
     - icon: material/instagram
       link: https://www.instagram.com/interpoliusp/
       name: Instagram
+
+      
+copyright: >-
+      <p>"© 2026 INTERPOLI-USP". Desenvolvido por <a href="https://github.com/alveslars"> Larissa Alves; ALVES, L.</a>.</p>
+      <p>"© 2026 INTERPOLI-USP". Este site e seu conteúdo, salvo indicação em contrário, estão licenciados sob <a href="https://creativecommons.org/licenses/by-nc/4.0/">a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0), permitindo o compartilhamento e a adaptação do material, desde que seja atribuída a devida autoria.</p>
+      
+    
