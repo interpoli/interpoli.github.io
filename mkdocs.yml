@@ -7,14 +7,14 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: custom
       accent: blue
       toggle:
         icon: material/brightness-7
         name: Mudar para modo escuro
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: custom
       accent: blue
       toggle:
         icon: material/brightness-4
@@ -23,6 +23,12 @@ theme:
     - navigation.tabs       # Menu horizontal bonito no topo
     - search.expand        # Faz a barra de pesquisa ficar aberta e elegante no topo igual ao padrão comercial
 
+extra:
+  analytics:
+    provider: google
+  custom_colors:
+    primary: "#1e366a"
+    
   # CONFIGURAÇÃO DA FONTE (Exatamente a fonte sem serifa e moderna da imagem)
   font:
     text: Roboto
