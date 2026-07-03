@@ -34,3 +34,144 @@
 /* O Modo Escuro ([data-md-color-scheme="slate"]) não está listado aqui,
    o que garante que ele continuará usando o padrão cinza escuro original do tema,
    mantendo o contraste 100% acessível para leitura noturna. */
+
+/* ==========================================================================
+   ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME)
+   ========================================================================== */
+
+/* Remove as barras laterais de navegação e índice apenas na home para centralizar o conteúdo */
+[data-md-component="main"] {
+  display: block;
+}
+.homepage .md-sidebar--primary,
+.homepage .md-sidebar--secondary {
+  display: none;
+}
+.homepage .md-content {
+  max-width: 100%;
+}
+.homepage .md-content__inner {
+  margin: 0;
+  padding: 0;
+}
+
+/* Container do Banner Inicial */
+.home-banner {
+  position: relative;
+  width: 100%;
+  padding: 80px 20px;
+  text-align: center;
+  background-color: #f0f5fa; /* Fundo padrão claro */
+  overflow: hidden;
+}
+
+/* Imagem de fundo transparente atrás do logo */
+.home-banner::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  max-width: 800px;
+  height: 100%;
+  /* Substitua pelo caminho correto da sua imagem de linhas/rede transparente */
+  background: url('../assets/background-network.png') no-repeat center; 
+  background-size: contain;
+  opacity: 0.3; /* Controla a transparência do fundo */
+  z-index: 1;
+}
+
+.home-banner-content {
+  position: relative;
+  z-index: 2; /* Fica acima da imagem de fundo */
+}
+
+/* Estilização do Logo e Títulos da Home */
+.home-logo {
+  max-width: 220px;
+  margin: 0 auto 20px auto;
+  display: block;
+}
+.home-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1e366a;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+.home-subtitle {
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #0c2340;
+  line-height: 1.6;
+}
+
+/* Seção Sobre o Grupo e Grid Centralizado */
+.home-about {
+  background-color: #ffffff;
+  padding: 50px 20px;
+}
+.home-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.home-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 30px;
+}
+.home-col {
+  flex: 1;
+  min-width: 300px;
+  text-align: left;
+}
+
+/* Botões Customizados ("Dados Abertos") */
+.btn-dados-abertos {
+  display: inline-block;
+  background-color: #2b7bb9;
+  color: #ffffff !important;
+  padding: 10px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  margin-top: 20px;
+  transition: background 0.2s;
+  border: none;
+}
+.btn-dados-abertos:hover {
+  background-color: #1e5a8a;
+  text-decoration: none;
+}
+
+/* Caixa inferior cinza do INTERPOLI (Antes do rodapé final) */
+.home-footer-box {
+  background-color: #e5e5e5;
+  padding: 30px 20px;
+  text-align: center;
+  border-top: 1px solid #dcdcdc;
+  margin-top: 40px;
+}
+.home-footer-box h3 {
+  color: #1e366a;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+/* Força o Rodapé Oficial (Copyright) a ser cinza apenas na homepage */
+.homepage .md-footer {
+  background-color: #d6d6d6 !important;
+  color: #333333 !important;
+}
+.homepage .md-footer__meta {
+  background-color: #d6d6d6 !important;
+}
+.homepage .md-copyright, 
+.homepage .md-social__link {
+  color: #333333 !important;
+}
