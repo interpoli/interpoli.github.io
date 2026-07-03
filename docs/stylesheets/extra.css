@@ -1,6 +1,36 @@
-/* Altera o fundo do site apenas quando o modo claro estiver ativo */
+/* ==========================================================================
+   CONFIGURAÇÕES EXCLUSIVAS PARA O MODO CLARO (Default)
+   ========================================================================== */
 [data-md-color-scheme="default"] {
-    --md-default-bg-color: #f0f5fa;          /* Cor de fundo suave do logo INTERPOLI */
-    --md-default-fg-color: #0c2340;          /* Texto em azul escuro marinho para contraste */
-    --md-default-bg-color--lightest: #e1ecf7; /* Cor de fundo de tabelas e blocos de destaque */
+  /* Altera as variáveis oficiais de cor do tema Material */
+  --md-primary-fg-color: #1e366a;           /* O azul-marinho perfeito do logo na barra principal */
+  --md-primary-fg-color--dark: #15264b;     /* Um tom mais escuro para quando passar o mouse */
+  --md-typeset-color: #0c2340;              /* Texto em azul-escuro marinho para alto contraste */
+  
+  /* Cor de fundo suave (azul-gelo) para o corpo do site */
+  --md-background-color: #f0f5fa;           
 }
+
+/* Força o fundo da barra de navegação superior a usar o azul-marinho do logo */
+[data-md-color-scheme="default"] .md-header {
+  background-color: #1e366a !important;
+}
+
+/* Força o fundo das abas (Início, Pesquisadores) a usar o azul-marinho do logo */
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: #1e366a !important;
+}
+
+/* Modifica a cor de fundo dos blocos de código e tabelas para o azul mais claro */
+[data-md-color-scheme="default"] .md-typeset code, 
+[data-md-color-scheme="default"] .md-typeset table {
+  background-color: #e1ecf7 !important;
+}
+
+
+/* ==========================================================================
+   MODO ESCURO (Slate) - TOTALMENTE PRESERVADO PARA ACESSIBILIDADE
+   ========================================================================== */
+/* O Modo Escuro ([data-md-color-scheme="slate"]) não está listado aqui,
+   o que garante que ele continuará usando o padrão cinza escuro original do tema,
+   mantendo o contraste 100% acessível para leitura noturna. */
