@@ -10,7 +10,7 @@ meta:
     <!-- O SEU LOGO ENTRA AQUI, AJUSTADO PARA NÃO SOFRER INTERFERÊNCIA DO CSS antigo -->
     <img src="assets/logo.png" width="180" style="margin-bottom: 15px; display: block;" alt="INTERPOLI Logo">
     
-    <h1 class="home-title">BEM-VINDO AO INTERPOLI</h1>
+    <h1 class="home-title">BEM-VINDO AO Grupo de Pesquisa INTERPOLI</h1>
     <p class="home-subtitle">
       Nós somos o Grupo de Pesquisa Informação de Política Científica e (INTERPOLI) e principal forma assim que nos estruturamos no ecossistema de pesquisa.
     </p>
