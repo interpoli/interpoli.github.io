@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" width="200" style="margin-bottom: 10px;">
+</div>
+
 ---
 meta:
   class: homepage
