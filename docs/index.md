@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="assets/logo.png" width="200" style="margin-bottom: 10px;">
-</div>
-
 ---
 meta:
   class: homepage
@@ -11,7 +7,9 @@ meta:
 
 <div class="home-banner">
   <div class="home-banner-content">
-    <img src="assets/logo.png" class="home-logo" alt="INTERPOLI Logo">
+    <!-- O SEU LOGO ENTRA AQUI, AJUSTADO PARA NÃO SOFRER INTERFERÊNCIA DO CSS antigo -->
+    <img src="assets/logo.png" width="180" style="margin-bottom: 15px; display: block;" alt="INTERPOLI Logo">
+    
     <h1 class="home-title">BEM-VINDO AO INTERPOLI</h1>
     <p class="home-subtitle">
       Nós somos o Grupo de Pesquisa Informação de Política Científica e (INTERPOLI) e principal forma assim que nos estruturamos no ecossistema de pesquisa.
