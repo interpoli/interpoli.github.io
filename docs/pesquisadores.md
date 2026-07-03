@@ -2,20 +2,95 @@
 
 ## Coordenação
 
-| Foto | Nome | Titulação | Instituição |
-| :---: | :--- | :--- | :--- |
-| <img src="../ednéia.png" width="90" style="border-radius: 8px;"> | **Ednéia Silva Santos** <br> <a href="https://orcid.org/0000-0003-1478-6828" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/0671510926276134" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Doutora | DEDIC-FFCLRP/USP e PPGCI-ECA/USP |
-
----
+<table class="tabela-equipe">
+  <thead>
+    <tr>
+      <th>Foto</th>
+      <th>Nome</th>
+      <th>Titulação</th>
+      <th>Instituição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="../ednéia.png" class="foto-perfil"></td>
+      <td><strong>Ednéia Silva Santos</strong><br><a href="https://orcid.org/0000-0003-1478-6828"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/0671510926276134"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Doutora</td>
+      <td>DEDIC-FFCLRP/USP e PPGCI-ECA/USP</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Integrantes
 
-| Foto | Nome | Titulação | Instituição |
-| :---: | :--- | :--- | :--- |
-| <img src="../douglas.png" width="90" style="border-radius: 8px;"> | **Douglas Pallone Vasconcelos dos Santos** <br> <a href="https://orcid.org/" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/8423716199417538" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Mestrando | PPGCI-ECA/USP |
-| <img src="../eduardo.png" width="90" style="border-radius: 8px;"> | **Eduardo Yukio Garrafa Ishihara** <br> <a href="https://orcid.org/" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/5896675221480951" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Graduando | IME-USP |
-| <img src="../larissa.png" width="90" style="border-radius: 8px;"> | **Larissa Alves** <br> <a href="https://orcid.org/0000-0002-0563-8172" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/5714545457389700" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Doutoranda | PPGCI-ECA/USP |
-| <img src="../luanda.png" width="90" style="border-radius: 8px;"> | **Luanda Ferreira Dias de Souza** <br> <a href="https://orcid.org/0009-0005-1443-7451" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/8714310367067380" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Graduanda | DEDIC-FFCLRP/USP |
-| <img src="../sofia.png" width="90" style="border-radius: 8px;"> | **Sofia Dias de Sousa** <br> <a href="https://orcid.org/0009-0007-6901-985X" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/4620593182525929" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Mestranda | PPGCI-ECA/USP |
-| <img src="../wesley.png" width="90" style="border-radius: 8px;"> | **Wesley Pereira Ricardo** <br> <a href="https://orcid.org/0009-0002-3347-2082" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/7254727084982500" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Mestrando | PPGCI-ECA/USP |
-| <img src="../yara.png" width="90" style="border-radius: 8px;"> | **Yara Arnoni de Camargo** <br> <a href="https://orcid.org/0009-0005-1214-7346" target="_blank"><img src="../orcid.png" width="16" style="vertical-align: middle; margin-right: 4px;"></a> <a href="http://lattes.cnpq.br/1953685942065128" target="_blank"><img src="../lattes.png" width="16" style="vertical-align: middle;"></a> | Mestranda | PPGCI-ECA/USP |
+<table class="tabela-equipe">
+  <thead>
+    <tr>
+      <th>Foto</th>
+      <th>Nome</th>
+      <th>Titulação</th>
+      <th>Instituição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="../douglas.png" class="foto-perfil"></td>
+      <td><strong>Douglas Pallone Vasconcelos dos Santos</strong><br><a href="https://orcid.org/"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/8423716199417538"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Mestrando</td>
+      <td>PPGCI-ECA/USP</td>
+    </tr>
+    <tr>
+      <td><img src="../eduardo.png" class="foto-perfil"></td>
+      <td><strong>Eduardo Yukio Garrafa Ishihara</strong><br><a href="https://orcid.org/"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/5896675221480951"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Graduando</td>
+      <td>IME-USP</td>
+    </tr>
+    <tr>
+      <td><img src="../larissa.png" class="foto-perfil"></td>
+      <td><strong>Larissa Alves</strong><br><a href="https://orcid.org/0000-0002-0563-8172"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/5714545457389700"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Doutoranda</td>
+      <td>PPGCI-ECA/USP</td>
+    </tr>
+    <tr>
+      <td><img src="../luanda.png" class="foto-perfil"></td>
+      <td><strong>Luanda Ferreira Dias de Souza</strong><br><a href="https://orcid.org/0009-0005-1443-7451"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/8714310367067380"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Graduanda</td>
+      <td>DEDIC-FFCLRP/USP</td>
+    </tr>
+    <tr>
+      <td><img src="../sofia.png" class="foto-perfil"></td>
+      <td><strong>Sofia Dias de Sousa</strong><br><a href="https://orcid.org/0009-0007-6901-985X"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/4620593182525929"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Mestranda</td>
+      <td>PPGCI-ECA/USP</td>
+    </tr>
+    <tr>
+      <td><img src="../wesley.png" class="foto-perfil"></td>
+      <td><strong>Wesley Pereira Ricardo</strong><br><a href="https://orcid.org/0009-0002-3347-2082"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/7254727084982500"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Mestrando</td>
+      <td>PPGCI-ECA/USP</td>
+    </tr>
+    <tr>
+      <td><img src="../yara.png" class="foto-perfil"></td>
+      <td><strong>Yara Arnoni de Camargo</strong><br><a href="https://orcid.org/0009-0005-1214-7346"><img src="../orcid.png" class="icon-social"></a> <a href="http://lattes.cnpq.br/1953685942065128"><img src="../lattes.png" class="icon-social"></a></td>
+      <td>Mestranda</td>
+      <td>PPGCI-ECA/USP</td>
+    </tr>
+  </tbody>
+</table>
+
+<style>
+  /* Bloqueia qualquer tentativa do tema de aumentar as imagens */
+  .tabela-equipe img.foto-perfil {
+    width: 90px !important;
+    height: 90px !important;
+    border-radius: 8px !important;
+    display: block !important;
+  }
+  .tabela-equipe img.icon-social {
+    width: 20px !important;
+    height: 20px !important;
+    margin: 2px !important;
+    vertical-align: middle !important;
+    display: inline !important;
+  }
+</style>
