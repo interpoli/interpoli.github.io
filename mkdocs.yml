@@ -44,7 +44,7 @@ extra_css:
 nav:
   - Início: index.md
   - Pesquisadores: pesquisadores.md
-  - Canais: contato.md
+  - Canais: canais.md
 
 # ==========================================================================
 # TODAS AS CONFIGURAÇÕES EXTRAS UNIFICADAS E COM O ESPAÇAMENTO CORRETO
