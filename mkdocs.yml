@@ -20,14 +20,15 @@ theme:
         icon: material/brightness-4
         name: Mudar para modo claro
   features:
-    - navigation.tabs
-    - search.suggest     # Melhora a barra de pesquisa deixando-a moderna
+    - navigation.tabs       # Menu horizontal bonito no topo
+    - search.expand        # Faz a barra de pesquisa ficar aberta e elegante no topo igual ao padrão comercial
 
-  # MUDAR A FONTE: Define a fonte limpa e moderna do exemplo
+  # CONFIGURAÇÃO DA FONTE (Exatamente a fonte sem serifa e moderna da imagem)
   font:
     text: Roboto
     code: Roboto Mono
 
+# CONFIGURAÇÃO DA BARRA DE PESQUISA AUTOMÁTICA
 plugins:
   - search
 
