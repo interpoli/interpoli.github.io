@@ -1,9 +1,3 @@
-<div style="text-align: center; margin-bottom: -50px;">
-  <img src="logo.png" style="width: 100%; max-width: 800px; height: auto; opacity: 0.15; position: absolute; top: 40px; left: 50%; transform: translateX(-50%); z-index: 0;">
-</div>
-
-<div style="position: relative; z-index: 1; padding-top: 140px;">
-  
 # Bem-vindo ao INTERPOLI
 
 Nós somos o Grupo de Pesquisa Integridade da Informação e Política Científica (INTERPOLI) da Universidade de São Paulo (USP). Nossas principais linhas de investigação envolvem a comunicação científica na era da Inteligência Artificial, a integridade científica e ética na produção do conhecimento, além de estudos métricos da informação e sua aplicação na Política Científica e Tecnológica.
