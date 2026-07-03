@@ -1,5 +1,5 @@
 /* ==========================================================================
-   CONFIGURAÇÕES EXCLUSIVAS PARA O MODO CLARO (Default)
+   CONFIGURAÇÕES EXCLUSIVAS PARA O MODO CLARO (Default) - SUAS REGRAS ANTIGAS
    ========================================================================== */
 [data-md-color-scheme="default"] {
   /* Altera as variáveis oficiais de cor do tema Material */
@@ -35,48 +35,39 @@
    o que garante que ele continuará usando o padrão cinza escuro original do tema,
    mantendo o contraste 100% acessível para leitura noturna. */
 
+
 /* ==========================================================================
-   ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME) - CORREÇÃO
+   ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME) - REGRAS NOVAS
    ========================================================================== */
 
-/* Remove as barras laterais de navegação e índice APENAS NA HOME */
-[data-md-component="main"] #home-container {
-  display: block;
-  max-width: 100%;
-  padding: 0;
+/* Remove as barras laterais de navegação e índice apenas na home para centralizar o conteúdo */
+.homepage .md-sidebar--primary,
+.homepage .md-sidebar--secondary {
+  display: none !important;
 }
-[data-md-color-scheme="default"] #home-container .md-sidebar--primary,
-[data-md-color-scheme="default"] #home-container .md-sidebar--secondary {
-  display: none;
+.homepage .md-content {
+  max-width: 100% !important;
 }
-#home-container .md-content {
-  max-width: 100%;
+.homepage .md-content__inner {
+  margin: 0 !important;
+  padding: 0 !important;
 }
-#home-container .md-content__inner {
-  margin: 0;
-  padding: 0;
-}
-
-/* Container principal da Home para garantir centralização total */
-.home-main-wrapper {
-  display: flex;
-  flex-direction: column;
-  width: 100%;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+.homepage .md-main__inner {
+  max-width: 100% !important;
+  margin-top: 0 !important;
 }
 
-/* Container do Banner Inicial com Fundo */
+/* Container do Banner Inicial */
 .home-banner {
   position: relative;
   width: 100%;
-  padding: 100px 20px; /* Mais padding para o banner aparecer bem */
+  padding: 80px 20px;
+  text-align: center;
+  background-color: #f0f5fa; 
   overflow: hidden;
-  background-color: #f0f5fa; /* Fundo padrão claro */
 }
 
-/* Imagem de fundo transparente atrás do logo - CORREÇÃO DE CAMINHO */
+/* Imagem de fundo transparente atrás do logo */
 .home-banner::before {
   content: "";
   position: absolute;
@@ -84,53 +75,60 @@
   left: 50%;
   transform: translate(-50%, -50%);
   width: 100%;
-  max-width: 1000px;
+  max-width: 800px;
   height: 100%;
-  background: url('../assets/background.jp') no-repeat center; /* Verifique se o nome do arquivo está correto */
-  background-size: cover;
-  opacity: 0.1; /* Transparência do fundo abstrato */
+  /* IMPORTANTE: Ajustado para o arquivo bckground.jp na pasta assets */
+  background: url('../assets/bckground.jp') no-repeat center; 
+  background-size: contain;
+  opacity: 0.15; 
   z-index: 1;
 }
 
 .home-banner-content {
   position: relative;
-  z-index: 2; /* Fica acima da imagem de fundo */
-  max-width: 800px;
-  margin: 0 auto;
+  z-index: 2; 
 }
 
 /* Estilização do Logo e Títulos da Home */
 .home-logo {
-  max-width: 250px;
-  margin: 0 auto 30px auto;
+  max-width: 220px;
+  margin: 0 auto 20px auto;
   display: block;
 }
 .home-title {
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   font-weight: 700;
   color: #1e366a;
-  margin-bottom: 25px;
+  margin-bottom: 20px;
   letter-spacing: 1px;
 }
 .home-subtitle {
-  font-size: 1.2rem;
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto;
   color: #0c2340;
   line-height: 1.6;
 }
 
-/* Seção Sobre o Grupo */
+/* Seção Sobre o Grupo e Grid Centralizado */
 .home-about {
   background-color: #ffffff;
-  padding: 60px 20px;
+  padding: 50px 20px;
 }
-.home-inner-container {
+.home-container {
   max-width: 1000px;
   margin: 0 auto;
-  text-align: left;
 }
-.home-about-text {
-  max-width: 700px;
-  margin: 0 auto;
+.home-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 30px;
+}
+.home-col {
+  flex: 1;
+  min-width: 300px;
+  text-align: left;
 }
 
 /* Botões Customizados ("Dados Abertos") */
@@ -138,14 +136,14 @@
   display: inline-block;
   background-color: #2b7bb9;
   color: #ffffff !important;
-  padding: 12px 28px;
+  padding: 10px 24px;
   border-radius: 4px;
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   letter-spacing: 0.5px;
-  margin-top: 30px;
-  text-decoration: none;
+  margin-top: 20px;
+  transition: background 0.2s;
   border: none;
 }
 .btn-dados-abertos:hover {
@@ -155,22 +153,27 @@
 
 /* Caixa inferior cinza do INTERPOLI (Antes do rodapé final) */
 .home-footer-box {
-  background-color: #e0e0e0; /* Cinza médio */
-  padding: 40px 20px;
+  background-color: #e5e5e5;
+  padding: 30px 20px;
   text-align: center;
-  border-top: 1px solid #c0c0c0;
+  border-top: 1px solid #dcdcdc;
+  margin-top: 40px;
 }
 .home-footer-box h3 {
   color: #1e366a;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-weight: bold;
-  font-size: 1.5rem;
 }
-.home-footer-box hr {
-  border: 0;
-  border-top: 1px solid #a0a0a0;
-  margin-bottom: 20px;
-  max-width: 600px;
-  margin-left: auto;
-  margin-right: auto;
+
+/* Força o Rodapé Oficial (Copyright) a ser cinza apenas na homepage */
+.homepage .md-footer {
+  background-color: #d6d6d6 !important;
+  color: #333333 !important;
+}
+.homepage .md-footer__meta {
+  background-color: #d6d6d6 !important;
+}
+.homepage .md-copyright, 
+.homepage .md-social__link {
+  color: #333333 !important;
 }
