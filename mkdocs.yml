@@ -4,23 +4,27 @@ site_description: Website oficial do laboratório INTERPOLI.
 theme:
   name: material
   palette:
-    # Tema claro e escuro automático baseado no sistema do usuário
+    # Modo Claro (com o fundo azul-gelo do logo da INTERPOLI)
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: indigo
+      primary: indigo      # Azul Marinho no topo
+      accent: blue         # Azul dinâmico nos links e detalhes
       toggle:
         icon: material/brightness-7
         name: Mudar para modo escuro
+    # Modo Escuro (mantido o padrão escuro confortável)
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: indigo
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Mudar para modo claro
   features:
     - navigation.tabs # Menu horizontal bonito no topo
+
+extra_css:
+  - stylesheets/extra.css   # Link para o arquivo de cor de fundo que vamos criar agora
 
 nav:
   - Início: index.md
