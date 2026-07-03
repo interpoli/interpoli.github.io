@@ -20,21 +20,12 @@ theme:
         icon: material/brightness-4
         name: Mudar para modo claro
   features:
-    - navigation.tabs       # Menu horizontal bonito no topo
-    - search.expand        # Faz a barra de pesquisa ficar aberta e elegante no topo igual ao padrão comercial
-
-extra:
-  analytics:
-    provider: google
-  custom_colors:
-    primary: "#1e366a"
-    
-  # CONFIGURAÇÃO DA FONTE (Exatamente a fonte sem serifa e moderna da imagem)
+    - navigation.tabs        # Menu horizontal bonito no topo
+    - search.expand         # Faz a barra de pesquisa ficar aberta e elegante no topo igual ao padrão comercial
   font:
     text: Roboto
     code: Roboto Mono
 
-# CONFIGURAÇÃO DA BARRA DE PESQUISA AUTOMÁTICA
 plugins:
   - search
 
@@ -47,21 +38,14 @@ nav:
   - Canais: canais.md
 
 # ==========================================================================
-# TODAS AS CONFIGURAÇÕES EXTRAS UNIFICADAS E COM O ESPAÇAMENTO CORRETO
+# CONFIGURAÇÕES EXTRAS UNIFICADAS (Corrigido para evitar duplicidade)
 # ==========================================================================
 extra:
   analytics:
     provider: google
   custom_colors:
     primary: "#1e366a"
-    
-  font:
-    text: Roboto
-    code: Roboto Mono
-
   copyright: "© Grupo de Pesquisa INTERPOLI, Todos os direitos reservados"
-
-  # Adiciona os ícones de contato elegantes e organizados no canto inferior
   social:
     - icon: material/database      # Ícone do CNPq
       link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
