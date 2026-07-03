@@ -57,31 +57,28 @@
 .home-banner {
   position: relative;
   width: 100%;
+  
+  /* ALTERAR A ALTURA DESSA FAIXA AQUI (Ajuste os valores de padding) */
   padding: 80px 20px;
+  
+  /* ALTERAR A POSIÇÃO DO TEXTO INTERPOLI / ALINHAMENTO AQUI */
   text-align: center;
-  background-color: #f0f5fa; 
+  
+  /* ALTERAR A COR DO FUNDO AQUI (Tom de azul claro com a mesma intensidade do cinza inferior) */
+  background-color: #dbe7f3; 
+  
   overflow: hidden;
 }
 
-/* Imagem de fundo transparente atrás do logo */
-.home-banner::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 100%;
-  max-width: 800px;
-  height: 100%;
-  background: url('../assets/bckground.jp') no-repeat center; 
-  background-size: contain;
-  opacity: 0.15; 
-  z-index: 1;
-}
+/* Nota: O bloco ".home-banner::before" que carregava o background.jpg foi completamente removido daqui */
 
 .home-banner-content {
   position: relative;
   z-index: 2; 
+  
+  /* INSERIR LOGO PEQUENO À ESQUERDA DO TEXTO FUTURAMENTE AQUI */
+  /* Dica: Para alinhar um logo ao lado do texto futuramente, você poderá transformar este 
+     container em um flexbox adicionando: display: flex; align-items: center; justify-content: center; */
 }
 
 /* Estilização do Logo e Títulos da Home */
