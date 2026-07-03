@@ -1,0 +1,14 @@
+/* Cor de fundo suave idêntica ao logo INTERPOLI */
+body, .md-container, .md-content {
+    background-color: #f0f5fa !important;
+}
+
+/* Garante que os menus laterais também sigam a cor de fundo */
+.md-sidebar, .md-sidebar--secondary {
+    background-color: #f0f5fa !important;
+}
+
+/* Cor do texto em Azul Marinho Escuro para leitura perfeita */
+.md-typeset, .md-nav__link {
+    color: #0c2340 !important;
+}
