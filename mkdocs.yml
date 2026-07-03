@@ -38,7 +38,7 @@ nav:
   - Canais: canais.md
 
 # ==========================================================================
-# CONFIGURAÇÕES EXTRAS UNIFICADAS (Corrigido para evitar duplicidade)
+# CONFIGURAÇÕES EXTRAS UNIFICADAS
 # ==========================================================================
 extra:
   analytics:
