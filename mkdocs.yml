@@ -51,7 +51,7 @@ extra:
       link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
       name: Diretório de Grupos de Pesquisa (CNPq)
     - icon: material/email
-      link: 'mailto:interpoli@usp.br'
+      link: https://interpoli.github.io/canais/
       name: Enviar E-mail
     - icon: material/instagram
       link: https://www.instagram.com/interpoliusp/
