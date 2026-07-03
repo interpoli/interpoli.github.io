@@ -1,6 +1,4 @@
-# Início
-
-<img src="logo.png" width="220" align="left" style="margin-right: 20px; margin-bottom: 20px;">
+<img src="logo.png" width="300" align="left" style="margin-right: 25px; margin-bottom: 20px;">
 
 # Bem-vindo ao INTERPOLI
 
