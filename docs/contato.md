@@ -1,4 +1,6 @@
-# Contato e Diretório
+# Canais
+
+## Contato e Diretório
 
 Aqui você encontra os canais oficiais de comunicação e registros do Grupo de Pesquisa INTERPOLI.
 
