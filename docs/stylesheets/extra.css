@@ -2,57 +2,53 @@
    CONFIGURAÇÕES EXCLUSIVAS PARA O MODO CLARO (Default) - SUAS REGRAS ANTIGAS
    ========================================================================== */
 [data-md-color-scheme="default"] {
-  /* Altera as variáveis oficiais de cor do tema Material */
-  --md-primary-fg-color: #1e366a;           /* O azul-marinho perfeito do logo na barra principal */
-  --md-primary-fg-color--dark: #15264b;     /* Um tom mais escuro para quando passar o mouse */
-  --md-typeset-color: #0c2340;              /* Texto em azul-escuro marinho para alto contraste */
-  
-  /* Cor de fundo suave (azul-gelo) para o corpo do site */
+  --md-primary-fg-color: #1e366a;           
+  --md-primary-fg-color--dark: #15264b;     
+  --md-typeset-color: #0c2340;              
   --md-background-color: #f0f5fa;           
 }
 
-/* Força o fundo da barra de navegação superior a usar o azul-marinho do logo */
 [data-md-color-scheme="default"] .md-header {
   background-color: #1e366a !important;
 }
 
-/* Força o fundo das abas (Início, Pesquisadores) a usar o azul-marinho do logo */
 [data-md-color-scheme="default"] .md-tabs {
   background-color: #1e366a !important;
 }
 
-/* Modifica a cor de fundo dos blocos de código e tabelas para o azul mais claro */
 [data-md-color-scheme="default"] .md-typeset code, 
 [data-md-color-scheme="default"] .md-typeset table {
   background-color: #e1ecf7 !important;
 }
 
-
 /* ==========================================================================
    MODO ESCURO (Slate) - TOTALMENTE PRESERVADO PARA ACESSIBILIDADE
    ========================================================================== */
 /* O Modo Escuro ([data-md-color-scheme="slate"]) não está listado aqui,
-   o que garante que ele continuará usando o padrão cinza escuro original do tema,
-   mantendo o contraste 100% acessível para leitura noturna. */
+   o que garante que ele continuará usando o padrão original do tema. */
 
 
 /* ==========================================================================
-   ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME) - REGRAS NOVAS
+   ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME) - REGRAS NOVAS FORÇADAS
    ========================================================================== */
 
-/* Remove as barras laterais de navegação e índice apenas na home para centralizar o conteúdo */
-.homepage .md-sidebar--primary,
-.homepage .md-sidebar--secondary {
+/* Força sumir com as barras laterais que quebram a centralização */
+.homepage-content ~ .md-sidebar--primary,
+.homepage-content ~ .md-sidebar--secondary,
+.md-main__inner:has(.homepage-content) .md-sidebar {
   display: none !important;
 }
-.homepage .md-content {
+
+.md-main__inner:has(.homepage-content) .md-content {
   max-width: 100% !important;
 }
-.homepage .md-content__inner {
+
+.md-main__inner:has(.homepage-content) .md-content__inner {
   margin: 0 !important;
   padding: 0 !important;
 }
-.homepage .md-main__inner {
+
+.md-main__inner:has(.homepage-content) {
   max-width: 100% !important;
   margin-top: 0 !important;
 }
@@ -77,7 +73,6 @@
   width: 100%;
   max-width: 800px;
   height: 100%;
-  /* IMPORTANTE: Ajustado para o arquivo bckground.jp na pasta assets */
   background: url('../assets/bckground.jp') no-repeat center; 
   background-size: contain;
   opacity: 0.15; 
@@ -165,15 +160,15 @@
   font-weight: bold;
 }
 
-/* Força o Rodapé Oficial (Copyright) a ser cinza apenas na homepage */
-.homepage .md-footer {
+/* Altera o Rodapé apenas se a página contiver o elemento da home */
+body:has(.homepage-content) .md-footer {
   background-color: #d6d6d6 !important;
   color: #333333 !important;
 }
-.homepage .md-footer__meta {
+body:has(.homepage-content) .md-footer__meta {
   background-color: #d6d6d6 !important;
 }
-.homepage .md-copyright, 
-.homepage .md-social__link {
+body:has(.homepage-content) .md-copyright, 
+body:has(.homepage-content) .md-social__link {
   color: #333333 !important;
 }
