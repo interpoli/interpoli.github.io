@@ -21,7 +21,18 @@ theme:
         name: Mudar para modo claro
   features:
     - navigation.tabs       # Menu horizontal bonito no topo
-    - search.expand         # Faz a barra de pesquisa ficar aberta
+    - search.expand        # Faz a barra de pesquisa ficar aberta e elegante no topo igual ao padrão comercial
+
+extra:
+  analytics:
+    provider: google
+  custom_colors:
+    primary: "#1e366a"
+    
+  # CONFIGURAÇÃO DA FONTE (Exatamente a fonte sem serifa e moderna da imagem)
+  font:
+    text: Roboto
+    code: Roboto Mono
 
 # CONFIGURAÇÃO DA BARRA DE PESQUISA AUTOMÁTICA
 plugins:
@@ -35,7 +46,7 @@ nav:
   - Pesquisadores: pesquisadores.md
 
 # ==========================================================================
-# SEÇÃO EXTRA UNIFICADA (Apenas uma no arquivo inteiro)
+# TODAS AS CONFIGURAÇÕES EXTRAS UNIFICADAS E COM O ESPAÇAMENTO CORRETO
 # ==========================================================================
 extra:
   analytics:
@@ -47,22 +58,15 @@ extra:
     text: Roboto
     code: Roboto Mono
 
-  # Texto do Rodapé personalizado com Nome, Copyright e Licença CC 4.0
+  # Altera o texto de Copyright para o seu nome com destaque
   copyright: |
-    <div style="text-align: left; line-height: 1.6;">
-      <span style="font-size: 18px; font-weight: 700; letter-spacing: 0.5px; color: #ffffff;">ALVES</span>
-      <br>
-      <span style="font-size: 13px; opacity: 0.9; color: #e1ecf7;">Grupo de Pesquisa INTERPOLI</span>
-      <br><br>
-      <span style="font-size: 12px; opacity: 0.7;">
-        Copyright © Grupo de Pesquisa INTERPOLI. Conteúdos licenciados sob 
-        <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.pt-br" target="_blank" style="color: #e1ecf7; text-decoration: underline;">CC-BY-NC 4.0</a>.
-      </span>
-    </div>
+    <span style="font-size: 18px; font-weight: 700; letter-spacing: 0.5px; color: #ffffff;">ALVES</span> 
+    <br>
+    <span style="font-size: 13px; opacity: 0.7;">Grupo de Pesquisa INTERPOLI</span>
 
-  # Redes Sociais e Diretórios com os ícones atualizados
+  # Adiciona os ícones de contato elegantes e organizados no canto inferior
   social:
-    - icon: material/database      # NOVO ÍCONE: Representa banco de dados/diretório de pesquisa
+    - icon: material/database      # Ícone do CNPq
       link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
       name: Diretório de Grupos de Pesquisa (CNPq)
     - icon: material/email
