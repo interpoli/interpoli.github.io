@@ -59,14 +59,12 @@ extra:
       link: https://www.instagram.com/interpoliusp/
       name: Instagram
 
-      
-  copyright: >-
-    <p>© INTERPOLI. Desenvolvido por <a href="https://github.com/alveslars"> ALVES, L.; Larissa Alves. </a></p>
-      <p>© 2026 INTERPOLI-USP. Este site e seu conteúdo, salvo indicação em contrário, estão licenciados sob <a href="https://creativecommons.org/licenses/by-nc/4.0/">a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0), permitindo o compartilhamento e a adaptação do material, desde que seja atribuída a devida autoria.</p>
-  <br>
+copyright: >-
+    <p>© INTERPOLI. Desenvolvido por <a href="https://github.com/alveslars"> ALVES, L.; Larissa Alves.</a></p>
+    <p>© 2026 INTERPOLI-USP. Este site e seu conteúdo, salvo indicação em contrário, estão licenciados sob <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</a>, permitindo o compartilhamento e a adaptação do material, desde que seja atribuída a devida autoria.</p>
+    <br>
     <div style="text-align: center; margin-top: 15px;">
-      <a href="https://www.usp.br" target="_blank"><img src="/assets/logo-usp.png" alt="USP" height="45" style="display: inline; vertical-align: middle; margin: 0 15px;"></a>
-      <a href="https://www3.eca.usp.br" target="_blank"><img src="/assets/logo-eca.png" alt="ECA USP" height="45" style="display: inline; vertical-align: middle; margin: 0 15px;"></a>
-      <a href="https://interpoli.github.io/" target="_blank"><img src="/assets/logo-branco.png" alt="INTERPOLI" height="45" style="display: inline; vertical-align: middle; margin: 0 15px;"></a>
+        <a href="https://www.usp.br" target="_blank"><img src="/assets/logo-usp.png" alt="USP" height="45" style="display: inline; vertical-align: middle; margin: 0 15px;"></a>
+        <a href="https://www3.eca.usp.br" target="_blank"><img src="/assets/logo-eca.png" alt="ECA USP" height="45" style="display: inline; vertical-align: middle; margin: 0 15px;"></a>
+        <a href="https://interpoli.github.io/" target="_blank"><img src="/assets/logo-branco.png" alt="INTERPOLI" height="45" style="display: inline; vertical-align: middle; margin: 0 15px;"></a>
     </div>
-    
