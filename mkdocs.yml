@@ -6,6 +6,8 @@ site_description: Website oficial do laboratório INTERPOLI da Universidade de S
 theme:
   name: material
   language: pt-BR
+  logo: assets/logo-branco.png    # Esse altera o ícone de livro da barra azul para o logo branco
+  favicon: assets/logo.png        # Esse altera o ícone de livro da aba do Google para o logo escuro
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
