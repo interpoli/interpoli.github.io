@@ -40,8 +40,7 @@
    ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME) - REGRAS NOVAS FORÇADAS
    ========================================================================== */
 
-/* Força sumir com as barras laterais que quebram a centralização APENAS no computador */
-@media screen and (min-width: 76.25em) {
+/* Força sumir com as barras laterais que quebram a centralização */
 .homepage-content ~ .md-sidebar--primary,
 .homepage-content ~ .md-sidebar--secondary,
 .md-main__inner:has(.homepage-content) .md-sidebar {
