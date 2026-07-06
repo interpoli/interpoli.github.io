@@ -202,7 +202,7 @@ body:has(.homepage-content) .md-social__link {
   color: #333333 !important;
 }
 
-/* Força o menu do celular a aparecer quando o botão é clicado */
-body[data-md-toggle="drawer"] .md-sidebar--primary {
+/* Ativa o menu do celular apenas quando o botão de três listras for clicado */
+#__drawer:checked ~ .md-container .md-sidebar--primary {
   display: block !important;
 }
