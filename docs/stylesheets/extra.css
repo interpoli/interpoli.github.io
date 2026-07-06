@@ -202,9 +202,7 @@ body:has(.homepage-content) .md-social__link {
   color: #333333 !important;
 }
 
-/* Correção exclusiva para o menu do celular abrir */
-@media screen and (max-width: 76.1875em) {
-  .md-nav--primary {
-    display: block !important;
-  }
+/* Força o menu do celular a aparecer quando o botão é clicado */
+body[data-md-toggle="drawer"] .md-sidebar--primary {
+  display: block !important;
 }
