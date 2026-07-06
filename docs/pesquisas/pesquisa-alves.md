@@ -1,6 +1,7 @@
 # Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados
 
 **Responsável:** Larissa Alves  
+**Situação:** Em andamento    
 
 ### Resumo da Pesquisa
 A ciência aberta tem se consolidado como um movimento voltado à transparência, ao acesso e à colaboração na produção científica. Entre suas dimensões, destacam-se os dados de pesquisa, relevantes para ampliar a transparência, a reprodutibilidade e o impacto científico. Este estudo em andamento analisa iniciativas federais de ciência aberta no Brasil e políticas nacionais europeias, com foco nas diretrizes e mecanismos relacionados à abertura de dados de pesquisa. Adota abordagem qualitativa, exploratória e descritiva, baseada em análise documental e comparativa. Busca compreender as implicações da ausência de uma política federal consolidada no Brasil, em contraste com países europeus que dispõem de políticas nacionais de ciência aberta. Espera-se evidenciar que a ausência de política federal consolidada no Brasil implica desafios para a padronização das práticas de compartilhamento de dados, enquanto a existência de políticas estruturadas em âmbito nacional favorece práticas consistentes, interoperáveis e orientadas ao reúso. Como contribuição, pretende-se propor recomendações que subsidiem o fortalecimento da governança de dados no Brasil.
