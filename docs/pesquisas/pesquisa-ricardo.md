@@ -17,7 +17,7 @@ Texto.
 <div style="text-align: center; margin-bottom: 25px;">
   
   <!-- Foto: Média para grande, quadrada e centralizada -->
-  <img src="/wesley.png" alt="Foto da Pesquisadora" width="220" height="220" style="object-fit: cover; border: 3px solid #ffffff; box-shadow: 0 3px 8px rgba(0,0,0,0.1); display: inline-block; margin-bottom: 15px;">
+  <img src="/wesley.png" alt="Foto do Pesquisador" width="220" height="220" style="object-fit: cover; border: 3px solid #ffffff; box-shadow: 0 3px 8px rgba(0,0,0,0.1); display: inline-block; margin-bottom: 15px;">
 
   <!-- Nome do Pesquisador abaixo da foto -->
   <span style="font-size: 1.4rem; font-weight: bold; color: #1e366a; display: block; margin-bottom: 10px;">Wesley Pereira Ricardo</span>
