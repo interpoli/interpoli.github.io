@@ -1,7 +1,7 @@
 # Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados
 
 **Responsável:** Larissa Alves  
-**Nível:** Doutorado
+**Nível:** Doutorado   
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
