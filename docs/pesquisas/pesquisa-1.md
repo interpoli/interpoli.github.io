@@ -11,26 +11,14 @@ A ciência aberta tem se consolidado como um movimento voltado à transparência
 
 ### Sobre
 
-<h3>Sobre</h3>
-
 <!-- Bloco centralizado: Foto, Nome e Ícones -->
 <div style="text-align: center; margin-bottom: 25px;">
   
   <!-- Foto: Média para grande, quadrada e centralizada -->
-  <img src="../larissa.png" alt="Foto da Pesquisadora" width="220" height="220" style="object-fit: cover; border: 3px solid #ffffff; box-shadow: 0 3px 8px rgba(0,0,0,0.1); display: inline-block; margin-bottom: 15px;">
+  <img src="../larissa.png" width="90" style="border-radius:8px;"> | **Larissa Alves** <br> <a href="https://orcid.org/0000-0002-0563-8172" target="_blank"><img src="../orcid.png" width="18" height="18" style="vertical-align:middle; display:inline;"></a> <a href="http://lattes.cnpq.br/5714545457389700" target="_blank"><img src="../lattes.png" width="18" height="18" style="vertical-align:middle; display:inline;"></a>
 
   <!-- Nome da Pesquisadora abaixo da foto -->
   <span style="font-size: 1.4rem; font-weight: bold; color: #1e366a; display: block; margin-bottom: 10px;">Larissa Alves</span>
-
-  <!-- Ícones das imagens lattes.png e orcid.png abaixo do nome -->
-  <div style="display: flex; justify-content: center; gap: 15px;">
-    <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration: none;">
-      <img src="../lattes.png" alt="Lattes" width="18" height="18" style="vertical-align: middle;">
-    </a>
-    <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration: none;">
-      <img src="../orcid.png" alt="ORCID" width="18" height="18" style="vertical-align: middle;">
-    </a>
-  </div>
 
 </div> <!-- FIM DA CENTRALIZAÇÃO -->
 
