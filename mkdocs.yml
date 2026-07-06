@@ -40,6 +40,8 @@ nav:
   - Início: index.md
   - Pesquisadores: pesquisadores.md
   - Canais: canais.md
+  - Pesquisas:
+      - "Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados": pesquisas/pesquisa-1.md
 
 # ==========================================================================
 # CONFIGURAÇÕES EXTRAS UNIFICADAS
