@@ -39,10 +39,11 @@ extra_css:
 nav:
   - Início: index.md
   - Pesquisadores: pesquisadores.md
-  - Canais: canais.md
   - Pesquisas:
-      - "Representações do racismo na produção científica global: estudo bibliométrico em bases de dados internacionais": pesquisas/pesquisa-souza.md
       - "Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados": pesquisas/pesquisa-alves.md
+      - "Representações do racismo na produção científica global: estudo bibliométrico em bases de dados internacionais": pesquisas/pesquisa-souza.md
+      - "Políticas editoriais e integridade científica no contexto do LATINDEX: desafios do uso de inteligência artificial na comunicação científica": pesquisas/pesquisa-ricardo.md
+  - Canais: canais.md
 
 # ==========================================================================
 # CONFIGURAÇÕES EXTRAS UNIFICADAS
