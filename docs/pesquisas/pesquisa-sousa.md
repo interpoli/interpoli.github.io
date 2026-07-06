@@ -36,5 +36,5 @@ Texto.
 
 <!-- Biografia: Totalmente fora do bloco de cima, alinhada à esquerda -->
 <p style="text-align: left; font-size: 1rem; line-height: 1.6; color: #333333;">
-  Sofia Dias de Sousa é mestranda do Programa de Pós-graduação em Ciência da Informação da Escola de Comunicações e Artes da Universidade de São Paulo (ECA-USP). Bacharela em Biblioteconomia e Ciência da Informação pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da Universidade de São Paulo (FFCLRP-USP). Durante a graduação atuei como bolsista de pesquisa pelo Programa Unificado de Bolsas (PUB), no projeto de pesquisa Integridade científica nos periódicos científicos da área de saúde: Análise de conteúdo das diretrizes para submissão de artigos.
+  Sofia Dias de Sousa é mestranda do Programa de Pós-graduação em Ciência da Informação da Escola de Comunicações e Artes da Universidade de São Paulo (ECA-USP). Bacharela em Biblioteconomia e Ciência da Informação pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da Universidade de São Paulo (FFCLRP-USP). Durante a graduação atuou como bolsista de pesquisa pelo Programa Unificado de Bolsas (PUB), no projeto de pesquisa Integridade científica nos periódicos científicos da área de saúde: Análise de conteúdo das diretrizes para submissão de artigos.
 </p>
