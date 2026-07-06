@@ -1,6 +1,6 @@
 # Políticas editoriais e integridade científica no contexto do LATINDEX: desafios do uso de inteligência artificial na comunicação científica
 
-**Responsável:** Wesley Pereira Ricardo 
+**Responsável:** Wesley Pereira Ricardo   
 **Nível:** Mestrado    
 **Situação:** Em andamento    
 
