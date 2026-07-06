@@ -1,0 +1,210 @@
+/* ==========================================================================
+   CONFIGURAÇÕES EXCLUSIVAS PARA O MODO CLARO (Default) - SUAS REGRAS ANTIGAS
+   ========================================================================== */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #1e366a;           
+  --md-primary-fg-color--dark: #15264b;     
+  --md-typeset-color: #0c2340;              
+  --md-background-color: #f0f5fa;           
+}
+
+[data-md-color-scheme="default"] .md-header {
+  background-color: #1e366a !important;
+}
+
+[data-md-color-scheme="default"] .md-tabs {
+  background-color: #1e366a !important;
+}
+
+[data-md-color-scheme="default"] .md-typeset code, 
+[data-md-color-scheme="default"] .md-typeset table {
+  background-color: #e1ecf7 !important;
+}
+
+.md-header__button.md-logo img {
+  height: 48px !important;
+  width: auto !important;
+}
+.md-header__button.md-logo {
+  padding: 4px !important;
+}
+
+/* ==========================================================================
+   MODO ESCURO (Slate) - TOTALMENTE PRESERVADO PARA ACESSIBILIDADE
+   ========================================================================== */
+/* O Modo Escuro ([data-md-color-scheme="slate"]) não está listado aqui,
+   o que garante que ele continuará usando o padrão original do tema. */
+
+
+/* ==========================================================================
+   ESTILIZAÇÃO EXCLUSIVA PARA A PÁGINA INICIAL (HOME) - REGRAS NOVAS FORÇADAS
+   ========================================================================== */
+
+/* Força sumir com as barras laterais que quebram a centralização APENAS no computador */
+@media screen and (min-width: 76.25em) {
+  .homepage-content ~ .md-sidebar--primary,
+  .homepage-content ~ .md-sidebar--secondary,
+  .md-main__inner:has(.homepage-content) .md-sidebar {
+    display: none !important;
+  }
+}
+
+.md-main__inner:has(.homepage-content) .md-content {
+  max-width: 100% !important;
+}
+
+.md-main__inner:has(.homepage-content) .md-content__inner {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.md-main__inner:has(.homepage-content) {
+  max-width: 100% !important;
+  margin-top: 0 !important;
+}
+
+/* REMOVE A IMAGEM QUEBRADA DO CANTO ESQUERDO DA PÁGINA */
+.md-main__inner:has(.homepage-content) .md-content__inner > a {
+  display: none !important;
+}
+
+/* Container do Banner Inicial */
+.home-banner {
+  position: relative;
+  width: 100%;
+  
+  /* ALTERAR A ALTURA DESSA FAIXA AQUI (Ajuste os valores de padding) */
+  padding: 60px 20px;
+  
+  /* ALTERAR A POSIÇÃO DO TEXTO INTERPOLI / ALINHAMENTO AQUI */
+  text-align: center;
+  
+  /* ALTERAR A COR DO FUNDO AQUI (Tom de azul claro ainda mais suave e limpo) */
+  background-color: #e6f0fa; 
+  
+  overflow: hidden;
+}
+
+.home-banner-content {
+  position: relative;
+  z-index: 2; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  /* INSERIR LOGO PEQUENO À ESQUERDA DO TEXTO FUTURAMENTE AQUI */
+}
+
+/* Força sumir com o texto "INTERPOLI Logo" e a marca de imagem quebrada do HTML antigo */
+.home-logo {
+  visibility: hidden;
+  width: 220px;
+  height: 80px; /* Altere para a altura real do seu logo se necessário */
+  margin: 0 auto 20px auto;
+  display: block;
+  position: relative;
+}
+
+/* INJETA O SEU LOGO DIRETAMENTE VIA CSS PARA GARANTIR QUE APAREÇA NO CENTRO */
+.home-logo::after {
+  content: "";
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* Puxa o logo direto do endereço público mapeado do seu MkDocs */
+  background: url('https://interpoli.github.io/assets/logo.png') no-repeat center;
+  background-size: contain;
+}
+
+/* Estilização do Título da Home */
+.home-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #1e366a;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+.home-subtitle {
+  font-size: 1.1rem;
+  max-width: 700px;
+  margin: 0 auto;
+  color: #0c2340;
+  line-height: 1.6;
+}
+
+/* Seção Sobre o Grupo e Grid Centralizado */
+.home-about {
+  background-color: #ffffff;
+  padding: 50px 20px;
+}
+.home-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.home-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 30px;
+}
+.home-col {
+  flex: 1;
+  min-width: 300px;
+  text-align: left;
+}
+
+/* Botões Customizados ("Dados Abertos") */
+.btn-dados-abertos {
+  display: inline-block;
+  background-color: #2b7bb9;
+  color: #ffffff !important;
+  padding: 10px 24px;
+  border-radius: 4px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  margin-top: 20px;
+  transition: background 0.2s;
+  border: none;
+}
+.btn-dados-abertos:hover {
+  background-color: #1e5a8a;
+  text-decoration: none;
+}
+
+/* Caixa inferior cinza do INTERPOLI (Antes do rodapé final) */
+.home-footer-box {
+  background-color: #e5e5e5;
+  padding: 30px 20px;
+  text-align: center;
+  border-top: 1px solid #dcdcdc;
+  margin-top: 40px;
+}
+.home-footer-box h3 {
+  color: #1e366a;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+/* Altera o Rodapé apenas se a página contiver o elemento da home */
+body:has(.homepage-content) .md-footer {
+  background-color: #d6d6d6 !important;
+  color: #333333 !important;
+}
+body:has(.homepage-content) .md-footer__meta {
+  background-color: #d6d6d6 !important;
+}
+body:has(.homepage-content) .md-copyright, 
+body:has(.homepage-content) .md-social__link {
+  color: #333333 !important;
+}
+
+/* Ativa o menu do celular apenas quando o botão de três listras for clicado */
+#__drawer:checked ~ .md-container .md-sidebar--primary {
+  display: block !important;
+}
