@@ -1,7 +1,7 @@
 # Representações do racismo na produção científica global: estudo bibliométrico em bases de dados internacionais
 
-**Responsável:** Luanda Ferreira Dias de Souza  
-**Nível:** Iniciação Científica 
+**Responsável:** Luanda Ferreira Dias de Souza    
+**Nível:** Iniciação Científica   
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
