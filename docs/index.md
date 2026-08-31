@@ -1,5 +1,4 @@
 ---
-layout: default
 meta:
   class: homepage
 ---
@@ -8,7 +7,7 @@ meta:
 
 <div class="home-banner">
   <div class="home-banner-content">
-    <!-- LOGO ENTRA AQUI, AJUSTADO PARA NÃO SOFRER INTERFERÊNCIA DO CSS antigo -->
+    <!-- O SEU LOGO ENTRA AQUI, AJUSTADO PARA NÃO SOFRER INTERFERÊNCIA DO CSS antigo -->
     <img src="assets/logo.png" width="180" style="margin-bottom: 15px; display: block;" alt="INTERPOLI Logo">
     
     <h1 class="home-title">Nós somos o Grupo de Pesquisa INTERPOLI</h1>
@@ -40,9 +39,9 @@ meta:
 
 <div class="home-footer-box">
   <div class="home-container">
-    <h3>INTERPOLI-USP</h3>
+    <h3>INTERPOLI</h3>
     <hr style="border: 0; border-top: 1px solid #b5b5b5; margin-bottom: 15px;">
-    <a href="http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013" target="_blank" class="btn-dados-abertos">Diretório</a>
+    <a href="#" class="btn-dados-abertos">Dados Abertos</a>
   </div>
 </div>
 
