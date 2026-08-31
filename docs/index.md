@@ -7,7 +7,7 @@ meta:
 
 <div class="home-banner">
   <div class="home-banner-content">
-    <!-- O SEU LOGO ENTRA AQUI, AJUSTADO PARA NÃO SOFRER INTERFERÊNCIA DO CSS antigo -->
+    <!-- LOGO ENTRA AQUI, AJUSTADO PARA NÃO SOFRER INTERFERÊNCIA DO CSS antigo -->
     <img src="assets/logo.png" width="180" style="margin-bottom: 15px; display: block;" alt="INTERPOLI Logo">
     
     <h1 class="home-title">Nós somos o Grupo de Pesquisa INTERPOLI</h1>
