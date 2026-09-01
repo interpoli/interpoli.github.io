@@ -5,9 +5,9 @@
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
-Texto.
+Este trabalho apresenta uma análise exploratória de projetos financiados pelos programas de fomento da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), com o objetivo de identificar quais deles mencionam o conceito de organização do conhecimento, abordando a relevância do tema para projetos voltados para a sociedade. A pesquisa parte do levantamento de dados disponíveis na base pública da FAPESP, considerando o período de 1992 a 2025, e analisa o conteúdo dos projetos. Por resultado, foram localizados 117 registros de todos os auxílios à pesquisa e bolsas financiadas pela FAPESP, independentemente de qual programa estão vinculados.
 
-**Palavras-chave:** 1; 2; 3; 4; 5; 6.  
+**Palavras-chave:** Organização do conhecimento; Gestão da informação; Inovação.
 
 ---
 
