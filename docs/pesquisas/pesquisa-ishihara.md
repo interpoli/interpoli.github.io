@@ -1,6 +1,7 @@
 # Métricas de remoções: estruturando um sistema de informação geográfica sobre habitação e risco na RMSP
 
 **Responsável:** Eduardo Yukio Garrafa Ishihara   
+**Orientadora:** Raquel Rolnik       
 **Nível:** Iniciação Científica    
 **Situação:** Em andamento    
 
