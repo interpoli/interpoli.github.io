@@ -208,3 +208,21 @@ body:has(.homepage-content) .md-social__link {
 #__drawer:checked ~ .md-container .md-sidebar--primary {
   display: block !important;
 }
+/* ==========================================================================
+   CORREÇÃO DO MENU FLUTUANTE NO TOPO (DROPDOWN) E OCULTAÇÃO DA BARRA LATERAL
+   ========================================================================== */
+
+/* Faz as abas com subitens mostrarem o menu flutuante no topo */
+.md-tabs__item {
+  position: relative;
+}
+
+/* Esconde a barra lateral da esquerda em páginas gerais para evitar o menu duplo */
+body:not(:has(.homepage-content)) .md-sidebar--primary {
+  display: block;
+}
+
+/* Melhora a apresentação das subseções e permite o efeito flutuante no hover */
+.md-tabs__link {
+  cursor: pointer;
+}
