@@ -6,7 +6,7 @@
 **Situação:** Em andamento        
 
 ### Resumo do Projeto
-O projeto, financiado no âmbito do Programa de Apoio à Infraestrutura (PAIP/EMU), visa fortalecer a infraestrutura de pesquisa para digitalização, preservação e disponibilização de acervos museológicos, bibliográficos e arquivísticos, contribuindo para pesquisas em patrimônio cultural, organização da informação e inteligência artificial aplicada a acervos históricos.
+O projeto, financiado no âmbito do Programa de Apoio à Infraestrutura (PAIP/EMU) e desenvolvido na Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da Universidade de São Paulo, visa fortalecer a infraestrutura de pesquisa para digitalização, preservação e disponibilização de acervos museológicos, bibliográficos e arquivísticos, contribuindo para pesquisas em patrimônio cultural, organização da informação e inteligência artificial aplicada a acervos históricos.
 
 **Palavras-chave:** EMU; PAIP; Infraestrutura de Pesquisa; Acervos Museológicos; Acervos Bibliográficos; Acervos Arquivísticos.  
 
