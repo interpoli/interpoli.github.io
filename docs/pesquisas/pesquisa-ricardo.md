@@ -5,9 +5,9 @@
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
-Texto.
+A pesquisa tem por objetivo, investigar como os periódicos científicos latino-americanos indexados no LATINDEX estão alinhados às normas do COPE, com especial atenção ao uso de Inteligência Artificial conforme os parâmetros estabelecidos pela Declaração de Heredia, recentemente incorporada pelo sistema regional. Trata-se de um estudo de natureza exploratória e descritiva, com abordagem quali-quantitativa. A pertinência do trabalho reside na necessidade de refletir sobre práticas de má conduta que ameaçam a integridade da comunicação científica na atualidade. Busca-se, assim, oferecer um panorama inédito acerca do emprego de Inteligência Artificial nos periódicos latino-americanos.
 
-**Palavras-chave:** 1; 2; 3; 4; 5; 6.  
+**Palavras-chave:** Integridade científica; Inteligência artificial; Periódicos científicos; LATINDEX; Governança editorial.  
 
 ---
 
@@ -36,5 +36,5 @@ Texto.
 
 <!-- Biografia: Totalmente fora do bloco de cima, alinhada à esquerda -->
 <p style="text-align: left; font-size: 1rem; line-height: 1.6; color: #333333;">
-  Wesley Pereira Ricardo é mestrando do Programa de Pós-graduação em Ciência da Informação da Escola de Comunicações e Artes da Universidade de São Paulo (ECA-USP). Bacharel em Biblioteconomia e Ciência da Informação pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto da Universidade de São Paulo (FFCLRP/USP). Integrante do INTERPOLI, grupo de Pesquisa em Integridade da Informação e Política Científica. Durante a graduação atuou como bolsista de pesquisa pelo Programa Unificado de Bolsas (PUB) na vertente pesquisa. Atuou como Assistente Administrativo na Fundação para o Desenvolvimento do Ensino e da Pesquisa do Direito (FADEP), instituição sem fins lucrativos, criada pelos docentes da Faculdade de Direito de Ribeirão Preto da Universidade de São Paulo (FDRP-USP) para facilitar o processo de integração entre universidade e comunidade.
+  Wesley Pereira Ricardo é mestrando em Ciência da Informação pelo Programa de Pós-Graduação (PPGCI) da Escola de Comunicações e Artes (ECA) da Universidade de São Paulo (USP). Bacharel em Biblioteconomia e Ciência da Informação pela Universidade de São Paulo (USP). Pesquisador do Laboratório de Estudos Métricos da Informação na Web - Labimetrics (UFAL). Foi bolsista de pesquisa pelo Programa Unificado de Bolsas (PUB/USP), assistente administrativo na Fundação para o Desenvolvimento do Ensino e da Pesquisa do Direito (FADEP), estagiário na Biblioteca Sinhá Junqueira de Ribeirão Preto - SP e bolsista de extensão no Projeto Rondon, financiado pelo Ministério da Defesa. Investiga políticas editoriais, integridade científica e inteligência artificial na comunicação científica.
 </p>
