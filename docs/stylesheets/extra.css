@@ -192,21 +192,36 @@
 }
 
 /* ==========================================================================
-   ESTILIZAÇÃO GLOBAL DO RODAPÉ (CINZA EM TODAS AS PÁGINAS DO SITE)
+   ESTILIZAÇÃO GLOBAL DO RODAPÉ (CINZA COM LETRAS BRANCAS EM TODO O SITE)
    ========================================================================== */
 .md-footer {
-  background-color: #d6d6d6 !important;
-  color: #333333 !important;
+  background-color: #6c757d !important;
+  color: #ffffff !important;
 }
 
 .md-footer__meta {
-  background-color: #d6d6d6 !important;
+  background-color: #6c757d !important;
 }
 
-.md-copyright, 
-.md-copyright a,
+/* Força o copyright e todos os textos dentro dele a ficarem totalmente brancos */
+.md-copyright,
+.md-copyright *,
 .md-social__link {
-  color: #333333 !important;
+  color: #ffffff !important;
+  opacity: 1 !important;
+}
+
+/* Links brancos e limpos, destacando apenas ao passar o mouse */
+.md-copyright a {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  opacity: 0.9;
+}
+
+.md-copyright a:hover,
+.md-social__link:hover {
+  opacity: 1 !important;
+  text-decoration: underline !important;
 }
 
 /* Ativa o menu do celular apenas quando o botão de três listras for clicado */
