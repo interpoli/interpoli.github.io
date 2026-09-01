@@ -192,18 +192,18 @@
 }
 
 /* ==========================================================================
-   ESTILIZAÇÃO GLOBAL DO RODAPÉ (CINZA COM LETRAS BRANCAS EM TODO O SITE)
+   ESTILIZAÇÃO GLOBAL DO RODAPÉ (CINZA CLARO #d6d6d6 + LETRAS BRANCAS)
    ========================================================================== */
 .md-footer {
-  background-color: #6c757d !important;
+  background-color: #d6d6d6 !important;
   color: #ffffff !important;
 }
 
 .md-footer__meta {
-  background-color: #6c757d !important;
+  background-color: #d6d6d6 !important;
 }
 
-/* Força o copyright e todos os textos dentro dele a ficarem totalmente brancos */
+/* Força o copyright e todos os textos a ficarem totalmente brancos */
 .md-copyright,
 .md-copyright *,
 .md-social__link {
@@ -215,12 +215,10 @@
 .md-copyright a {
   color: #ffffff !important;
   text-decoration: none !important;
-  opacity: 0.9;
 }
 
 .md-copyright a:hover,
 .md-social__link:hover {
-  opacity: 1 !important;
   text-decoration: underline !important;
 }
 
