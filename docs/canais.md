@@ -11,7 +11,6 @@ Aqui você encontra os canais oficiais de comunicação e registros do Grupo de 
 ### Registro Institucional
 * **Diretório de Grupos de Pesquisa (CNPq) - Brasil:** <a href="http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013" target="_blank">Espelho do Grupo no CNPq</a>
 * **Programa de Pós-Graduação:** <a href="https://www.eca.usp.br/pos/programa-de-pos-graduacao-em-ciencia-da-informacao" target="_blank">Programa de Pós-Graduação em Ciência da Informação (PPGCI)</a>
-* **Unidade:** Escola de Comunicações e Artes (ECA)
+* **Unidade:** Faculdade de Filosofia Ciências e Letras de Ribeirão Preto (FFCLRP)
 * **Instituição de Vínculo:** Universidade de São Paulo (USP)
-* **Endereço:** Av. Prof. Lúcio Martins Rodrigues, 443 - Cidade Universitária - CEP: 05508-020 - São Paulo, SP - Brasil
-
+* **Endereço:** Av. Bandeirantes, 3900 - Campus da USP, Ribeirão Preto - SP, CEP 14040-900
