@@ -40,12 +40,13 @@ nav:
   - Início: index.md
   - Pesquisadores: pesquisadores.md
   - Pesquisas:
-      - "Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados": pesquisas/pesquisa-alves.md
       - "Representações do racismo na produção científica global: estudo bibliométrico em bases de dados internacionais": pesquisas/pesquisa-souza.md
+      - "Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados": pesquisas/pesquisa-alves.md
       - "Políticas editoriais e integridade científica no contexto do LATINDEX: desafios do uso de inteligência artificial na comunicação científica": pesquisas/pesquisa-ricardo.md
-      - "Maturidade ética e desafios tecnológicos: diagnóstico dos guias de integridade científica no Brasil": pesquisas/pesquisa-sousa.md
+      - "Índice de Maturidade Ética (IME): proposta de um instrumento para avaliação de documentos institucionais de integridade científica em universidades brasileiras": pesquisas/pesquisa-sousa.md
       - "A organização do conhecimento em projetos fomentados pela FAPESP": pesquisas/pesquisa-camargo.md
       - "Métricas de remoções: estruturando um sistema de informação geográfica sobre habitação e risco na RMSP": pesquisas/pesquisa-ishihara.md
+      - "Ética nos artigos da Revista FAPESP: análise de conteúdo": pesquisas/pesquisa-bertanha.md
       - "Economia criativa e governança de dados: desafios e soluções inteligentes para o fomento cultural paulista": pesquisas/pesquisa-santos.md
   - Canais: canais.md
 
@@ -70,8 +71,7 @@ extra:
       name: Instagram
 
 copyright: >-
-    <p>© INTERPOLI. Desenvolvido por <a href="https://github.com/alveslars"> ALVES, L.; Larissa Alves.</a></p>
-    <p>© 2026 INTERPOLI-USP. Este site e seu conteúdo, salvo indicação em contrário, estão licenciados sob <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</a>, permitindo o compartilhamento e a adaptação do material, desde que seja atribuída a devida autoria.</p>
+    <p>© 2026 INTERPOLI. Desenvolvido por <a href="https://github.com/alveslars"> ALVES, L.; Larissa Alves.</a></p> INTERPOLI-USP. Este site e seu conteúdo, salvo indicação em contrário, estão licenciados sob <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">a Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)</a>, permitindo o compartilhamento e a adaptação do material, desde que seja atribuída a devida autoria.</p>
     <br>
     <div style="text-align: center; margin-top: 15px;">
     <a href="https://www.usp.br" target="_blank"><img src="/assets/logo-usp.png" alt="USP" style="display: inline; vertical-align: middle; max-height: 42px; width: auto; margin: 0 15px;"></a>
