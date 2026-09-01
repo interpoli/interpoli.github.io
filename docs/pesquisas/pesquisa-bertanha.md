@@ -1,13 +1,13 @@
-# Ética nos artigos da Revista FAPESP: análise de conteúdo
+# Ética e integridade científica na comunicação da ciência: análise das matérias publicadas na Revista Pesquisa FAPESP
 
 **Responsável:** Beatriz Bertanha  
 **Nível:** Iniciação Científica  
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
-Texto.
+A ética em pesquisa compreende princípios e responsabilidades relacionados à condução das investigações científicas, incluindo a proteção dos participantes e a consideração das consequências da pesquisa. A integridade científica, por sua vez, relaciona-se à observância de princípios como honestidade, transparência, rigor e responsabilidade durante as diferentes etapas da produção e da comunicação do conhecimento. Embora ética em pesquisa e integridade científica não sejam conceitos equivalentes, ambos se encontram relacionados à responsabilidade dos pesquisadores, das instituições e dos demais agentes envolvidos na produção, avaliação e circulação do conhecimento científico (Santos-d’Amorim e Santos, 2025). Sendo assim, o estudo busca analisar os enfoques relacionados à ética em pesquisa e à integridade científica presentes nas matérias publicadas pela revista Pesquisa FAPESP, identificando os temas que recebem maior visibilidade e as formas pelas quais são relacionados aos debates contemporâneos sobre ciência e sociedade.
 
-**Palavras-chave:** 1; 2; 3; 4; 5; 6.  
+**Palavras-chave:** Comunicação científica; Integridade científica; Ética; Pesquisa científica.   
 
 ---
 
