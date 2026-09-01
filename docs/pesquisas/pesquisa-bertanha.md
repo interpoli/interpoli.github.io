@@ -1,6 +1,7 @@
 # Ética e integridade científica na comunicação da ciência: análise das matérias publicadas na Revista Pesquisa FAPESP
 
 **Responsável:** Beatriz Bertanha  
+**Orientadora:** Ednéia Silva Santos       
 **Nível:** Iniciação Científica  
 **Situação:** Em andamento    
 
