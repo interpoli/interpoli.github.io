@@ -25,6 +25,8 @@ theme:
         name: Mudar para modo claro
   features:
     - navigation.tabs        # Menu horizontal bonito no topo
+    - navigation.tabs.sticky # Mantém o menu preso no topo
+    - navigation.indexes     # Transforma subitens em menus suspensos no topo
     - search.expand         # Faz a barra de pesquisa ficar aberta e elegante no topo igual ao padrão comercial
   font:
     text: Roboto
