@@ -1,6 +1,7 @@
 # Economia criativa e governança de dados: desafios e soluções inteligentes para o fomento cultural paulista
 
 **Responsável:** Douglas Pallone Vasconcelos dos Santos   
+**Orientadora:** Ednéia Silva Santos       
 **Nível:** Mestrado    
 **Situação:** Em andamento    
 
