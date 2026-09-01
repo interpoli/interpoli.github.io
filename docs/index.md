@@ -41,7 +41,7 @@ meta:
   <div class="home-container">
     <h3>INTERPOLI</h3>
     <hr style="border: 0; border-top: 1px solid #b5b5b5; margin-bottom: 15px;">
-    <a href="#" class="btn-dados-abertos">Dados Abertos</a>
+    <a href="http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013" target="_blank" class="md-button md-button--primary">DIRETÓRIO</a>
   </div>
 </div>
 
