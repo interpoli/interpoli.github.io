@@ -191,78 +191,25 @@
   font-weight: bold;
 }
 
-/* Altera o Rodapé apenas se a página contiver o elemento da home */
-body:has(.homepage-content) .md-footer {
+/* ==========================================================================
+   ESTILIZAÇÃO GLOBAL DO RODAPÉ (CINZA EM TODAS AS PÁGINAS DO SITE)
+   ========================================================================== */
+.md-footer {
   background-color: #d6d6d6 !important;
   color: #333333 !important;
 }
-body:has(.homepage-content) .md-footer__meta {
+
+.md-footer__meta {
   background-color: #d6d6d6 !important;
 }
-body:has(.homepage-content) .md-copyright, 
-body:has(.homepage-content) .md-social__link {
+
+.md-copyright, 
+.md-copyright a,
+.md-social__link {
   color: #333333 !important;
 }
 
 /* Ativa o menu do celular apenas quando o botão de três listras for clicado */
 #__drawer:checked ~ .md-container .md-sidebar--primary {
   display: block !important;
-}
-/* ==========================================================================
-   FORÇAR SUBMENU FLUTUANTE (DROPDOWN) NO TOPO - MKDOCS MATERIAL
-   ========================================================================== */
-
-/* Garante que o container das abas do topo permita elementos flutuantes */
-.md-tabs__list {
-  overflow: visible !important;
-}
-
-.md-tabs__item {
-  position: relative !important;
-  overflow: visible !important;
-}
-
-/* Oculta o submenu flutuante por padrão */
-.md-tabs__item .md-nav {
-  display: none;
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: #1e366a; /* Azul do seu tema */
-  min-width: 200px;
-  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
-  border-radius: 0 0 6px 6px;
-  padding: 8px 0;
-  z-index: 999;
-}
-
-/* EXIBE A JANELA FLUTUANTE AO PASSAR O MOUSE */
-.md-tabs__item:hover > .md-nav {
-  display: block !important;
-}
-
-/* Estilização dos links dentro da janela flutuante */
-.md-tabs__item .md-nav__list {
-  display: flex;
-  flex-direction: column;
-  padding: 0;
-  margin: 0;
-  list-style: none;
-}
-
-.md-tabs__item .md-nav__link {
-  color: #ffffff !important;
-  padding: 10px 16px !important;
-  white-space: nowrap;
-  font-size: 0.85rem;
-  display: block;
-}
-
-.md-tabs__item .md-nav__link:hover {
-  background-color: #15264b !important; /* Azul mais escuro ao passar o mouse */
-}
-
-/* Melhora a apresentação das subseções e permite o efeito flutuante no hover */
-.md-tabs__link {
-  cursor: pointer;
 }
