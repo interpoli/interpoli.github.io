@@ -1,6 +1,7 @@
 # Mapeamento das iniciativas federais de Ciência Aberta no Brasil e das políticas nacionais de Ciência Aberta na Europa: implicações para a abertura de dados
 
 **Responsável:** Larissa Alves  
+**Orientadora:** Ednéia Silva Santos       
 **Nível:** Doutorado   
 **Situação:** Em andamento    
 
