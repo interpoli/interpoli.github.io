@@ -1,6 +1,7 @@
 # A organização do conhecimento em projetos fomentados pela FAPESP
 
 **Responsável:** Yara Arnoni de Camargo    
+**Orientadora:** Ednéia Silva Santos       
 **Nível:** Mestrado Profissional   
 **Situação:** Em andamento    
 
