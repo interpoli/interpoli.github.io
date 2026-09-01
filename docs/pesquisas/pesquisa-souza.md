@@ -1,7 +1,9 @@
 # Representações do racismo na produção científica global: estudo bibliométrico em bases de dados internacionais
 
 **Responsável:** Luanda Ferreira Dias de Souza    
+**Orientadora:** Ednéia Silva Santos       
 **Nível:** Iniciação Científica   
+**Financiamento:** Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)         
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
