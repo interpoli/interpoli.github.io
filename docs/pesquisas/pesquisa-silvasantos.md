@@ -25,10 +25,10 @@ Estudo das demandas referentes à Lei Brasileira de Inclusão na justiça estadu
 
   <!-- Ícones das imagens lattes.png e orcid.png abaixo do nome -->
   <div style="display: flex; justify-content: center; gap: 15px;">
-    <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration: none;">
+    <a href="http://lattes.cnpq.br/0671510926276134" target="_blank" style="text-decoration: none;">
       <img src="/lattes.png" alt="Lattes" width="18" height="18" style="vertical-align: middle;">
     </a>
-    <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration: none;">
+    <a href="https://orcid.org/0000-0003-1478-6828" target="_blank" style="text-decoration: none;">
       <img src="/orcid.png" alt="ORCID" width="18" height="18" style="vertical-align: middle;">
     </a>
   </div>
