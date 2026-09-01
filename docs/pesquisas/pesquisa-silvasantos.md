@@ -1,9 +1,9 @@
 # Estudo empírico das demandas envolvendo pessoas com deficiência: jurimetria para a proposição de ações eficientes
 
-**Pesquisadora associada:** Ednéia Silva Santos
-**Coordenadora:** Luciana Romano Morilas
+**Pesquisadora associada:** Ednéia Silva Santos    
+**Coordenadora:** Luciana Romano Morilas    
 **Financiamento:** Conselho Nacional de Justiça (CNJ)   
-**Situação:** Concluído
+**Situação:** Concluído    
 
 ### Resumo da Pesquisa
 Estudo das demandas referentes à Lei Brasileira de Inclusão na justiça estadual brasileira. Estudo quantitativo, com análise jurimétrica dos dados processuais de demandas referentes a interdição, curatela e tomada de decisão apoiada; e qualitativo, com questionários e entrevistas tendentes a buscar a opinião dos operadores do direito (magistrados, membros do Ministério Público, defensores públicos, advogados) e dos jurisdicionados afetados pela LBI (Associações de PCD, responsáveis por PCD), com a indicação de contribuições sociais e propostas para o aprimoramento de políticas públicas.
