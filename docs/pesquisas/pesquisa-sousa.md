@@ -1,6 +1,7 @@
 # Índice de Maturidade Ética (IME): proposta de um instrumento para avaliação de documentos institucionais de integridade científica em universidades brasileiras
 
 **Responsável:** Sofia Dias de Sousa   
+**Orientadora:** Ednéia Silva Santos       
 **Nível:** Mestrado  
 **Situação:** Em andamento    
 
