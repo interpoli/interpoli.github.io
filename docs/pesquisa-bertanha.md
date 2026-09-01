@@ -1,6 +1,6 @@
-# A organização do conhecimento em projetos fomentados pela FAPESP
+# Ética nos artigos da Revista FAPESP: análise de conteúdo
 
-**Responsável:** Yara Arnoni de Camargo    
+**Responsável:** Beatriz Bertanha    
 **Nível:** Mestrado Profissional   
 **Situação:** Em andamento    
 
