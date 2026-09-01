@@ -5,9 +5,9 @@
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
-Texto.
+A pesquisa analisa a arquitetura documental e informacional dos projetos submetidos aos mecanismos estaduais de fomento cultural de São Paulo, no recorte de 2023 e 2024, investigando as condições de qualidade, comparabilidade e reutilização analítica dos dados produzidos pela plataforma digital de fomento. Parte-se do entendimento de que os projetos culturais, além de instrumentos administrativos de inscrição, constituem conjuntos de informações capazes de subsidiar a produção de conhecimento sobre as políticas públicas culturais. A pesquisa possui caráter documental, exploratório e descritivo, com abordagem quantitativa e qualitativa integrada. A análise compreenderá o mapeamento das estruturas de dados, campos, categorias e relações que constituem os projetos, a avaliação de dimensões como disponibilidade, completude, consistência, comparabilidade, rastreabilidade e capacidade de vinculação, além da análise temática de campos narrativos selecionados. Busca-se identificar padrões, limitações e possibilidades de reutilização dessas informações e, a partir dos resultados, formular diretrizes para o aprimoramento da modelagem, documentação e governança de dados no fomento cultural, contribuindo para a produção de conhecimento e para o apoio à gestão pública da cultura.
 
-**Palavras-chave:** 1; 2; 3; 4; 5; 6.  
+**Palavras-chave:** Governança de dados culturais; Fomento cultural; Ciência da Informação; Qualidade de dados; Análise documental; Políticas públicas culturais.  
 
 ---
 
