@@ -5,9 +5,9 @@
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
-Texto.
+Este projeto tem como objetivo analisar a representação do termo “racismo” na produção científica indexada nas bases Scopus e Web of Science, considerando sua  distribuição nas diferentes áreas do conhecimento e sua evolução ao longo do tempo,  por meio de abordagem bibliométrica. A pesquisa será de natureza descritiva e  exploratória, com abordagem quantitativa, fundamentada na técnica bibliométrica, a  qual permite analisar grandes volumes de dados científicos de maneira sistemática e  replicável. A pesquisa será conduzida por meio da coleta e tratamento de dados em  planilhas Excel e aplicação do software VOSviewer para análise de redes e  visualização de clusters temáticos. Espera-se que os resultados revelem a trajetória e  a centralidade do tema no campo científico, indicando áreas negligenciadas e  potencial de colaboração internacional. Análise crítica das representações do racismo  na literatura científica poderá subsidiar políticas públicas, currículos acadêmicos e  ações institucionais antirracistas. Do ponto de vista metodológico, o projeto contribui  para a Ciência da Informação ao aplicar técnicas bibliométricas em uma temática  socialmente relevante. A participação da bolsista em todas as etapas promoverá sua  formação científica, consolidando competências analíticas e comunicacionais no  campo da pesquisa acadêmica.
 
-**Palavras-chave:** 1; 2; 3; 4; 5; 6.  
+**Palavras-chave:** Racismo; Bibliometria; Produção científica; Interdisciplinaridade; Redes de colaboração; Ciência da Informação.  
 
 ---
 
@@ -36,5 +36,5 @@ Texto.
 
 <!-- Biografia: Totalmente fora do bloco de cima, alinhada à esquerda -->
 <p style="text-align: left; font-size: 1rem; line-height: 1.6; color: #333333;">
-  Luanda Ferreira Dias de Souza é graduanda em Biblioteconomia e Ciência da Informação na Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto, Universidade de São Paulo (FFCLRP-USP) e graduada em Gestão de Recursos Humanos pela Universidade Presbiteriana Mackenzie (2024). Atualmente, é bolsista de Iniciação Científica da FAPESP e exerce a Presidência do Centro Estudantil de Biblioteconomia e Ciência da Informação (CECI). Possui experiência na área administrativa e atua como assessora de pesquisadores acadêmicos, oferecendo suporte em atividades administrativas e acadêmicas. Tem interesse no desenvolvimento de expertise em gestão do conhecimento e apoio à pesquisa.
+  Luanda Ferreira Dias de Souza é graduanda em Biblioteconomia e Ciência da Informação pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP) da Universidade de São Paulo (USP) e graduada em Gestão de Recursos Humanos pela Universidade Presbiteriana Mackenzie (2024). Atualmente, é Bolsista de Iniciação Científica da FAPESP e exerce a Presidência do Centro Estudantil de Biblioteconomia e Ciência da Informação (CECI). Possui experiência na área administrativa e atua como assessora de pesquisadores acadêmicos, oferecendo suporte em atividades administrativas e acadêmicas. Tem interesse no desenvolvimento de expertise em gestão do conhecimento e apoio à pesquisa.
 </p>
