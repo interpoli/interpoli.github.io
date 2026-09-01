@@ -36,7 +36,7 @@ A ciência aberta tem se consolidado como um movimento voltado à transparência
 
 <!-- Biografia: Totalmente fora do bloco de cima, alinhada à esquerda -->
 <p style="text-align: left; font-size: 1rem; line-height: 1.6; color: #333333;">
-  Larissa Alves é doutoranda em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da Escola de Comunicações e Artes da Universidade de São Paulo - PPGCI-ECA/USP (2026-2030). Mestra em Ciência da Informação pela Universidade de São Paulo - USP (2025), fomentada pela CAPES. Bacharela em Biblioteconomia e Ciência da Informação com ênfase em Cultura e Discurso e Informação Empresarial pela Universidade Federal de São Carlos - UFSCar (2021) e Complementação de Curso Superior em Ciência e Sociedade e Inovação Tecnológica pela mesma instituição (2022).
+  Larissa Alves é doutoranda em Ciência da Informação pelo Programa de Pós-Graduação em Ciência da Informação da Escola de Comunicações e Artes da Universidade de São Paulo (PPGCI-ECA/USP). Mestra em Ciência da Informação pela Universidade de São Paulo - USP (2025), fomentada pela CAPES. Bacharela em Biblioteconomia e Ciência da Informação com ênfase em Cultura e Discurso e Informação Empresarial pela Universidade Federal de São Carlos - UFSCar (2021) e Complementação de Curso Superior em Ciência e Sociedade e Inovação Tecnológica pela mesma instituição (2022).
 </p>
 
 
