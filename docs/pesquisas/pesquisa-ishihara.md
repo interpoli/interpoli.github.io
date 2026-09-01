@@ -3,6 +3,7 @@
 **Responsável:** Eduardo Yukio Garrafa Ishihara   
 **Orientadora:** Raquel Rolnik       
 **Nível:** Iniciação Científica    
+**Financiamento:** Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)
 **Situação:** Em andamento    
 
 ### Resumo da Pesquisa
