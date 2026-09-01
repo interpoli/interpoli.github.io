@@ -1,14 +1,14 @@
-# Estudo empírico das demandas envolvendo pessoas com deficiência: jurimetria para a proposição de ações eficientes
+# EMU Infraestrutura de Pesquisa em Acervos Museológicos, Bibliográficos e Arquivísticos: aquisição de scanner profissional zeutschel para digitalização e modernização de coleções de acervos históricos da região de Ribeirão Preto
 
 **Pesquisadora associada:** Ednéia Silva Santos    
-**Coordenadora:** Luciana Romano Morilas    
-**Financiamento:** Conselho Nacional de Justiça (CNJ)   
-**Situação:** Concluído    
+**Coordenador:** José Eduardo Santarem Segundo    
+**Financiamento:** Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)    
+**Situação:** Em andamento    
 
-### Resumo da Pesquisa
-Estudo das demandas referentes à Lei Brasileira de Inclusão na justiça estadual brasileira. Estudo quantitativo, com análise jurimétrica dos dados processuais de demandas referentes a interdição, curatela e tomada de decisão apoiada; e qualitativo, com questionários e entrevistas tendentes a buscar a opinião dos operadores do direito (magistrados, membros do Ministério Público, defensores públicos, advogados) e dos jurisdicionados afetados pela LBI (Associações de PCD, responsáveis por PCD), com a indicação de contribuições sociais e propostas para o aprimoramento de políticas públicas.
+### Resumo do Projeto
+O projeto, financiado no âmbito do Programa de Apoio à Infraestrutura (PAIP/EMU), visa fortalecer a infraestrutura de pesquisa para digitalização, preservação e disponibilização de acervos museológicos, bibliográficos e arquivísticos, contribuindo para pesquisas em patrimônio cultural, organização da informação e inteligência artificial aplicada a acervos históricos.
 
-**Palavras-chave:** Lei Brasileira de Inclusão; Análise Jurimétrica; PCD.  
+**Palavras-chave:** EMU; PAIP; Infraestrutura de Pesquisa; Acervos Museológicos; Acervos Bibliográficos; Acervos Arquivísticos.  
 
 ---
 
