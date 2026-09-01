@@ -36,5 +36,5 @@ Este trabalho apresenta uma análise exploratória de projetos financiados pelos
 
 <!-- Biografia: Totalmente fora do bloco de cima, alinhada à esquerda -->
 <p style="text-align: left; font-size: 1rem; line-height: 1.6; color: #333333;">
-  Yara Arnoni de Camargo é formada em Comunicação Social, com ênfase em Jornalismo, pela Pontifícia Universidade Católica de São Paulo e atualmente cursa Mestrado Profissional em Ciência da Informação. Desde 2019 atua com organização do conhecimento, gestão do conhecimento e desenvolvimento de bases de conhecimento em empresas de tecnologia, como Uber e 99Food.
+  Yara Arnoni de Camargo é mestranda em Ciência da Informação pela Universidade de São Paulo (USP). Graduada em Comunicação Social, com ênfase em Jornalismo pela Pontifícia Universidade Católica de São Paulo (PUC-SP). Atua, desde 2019, nas áreas de organização do conhecimento e gestão do conhecimento, com experiência no desenvolvimento, estruturação e gestão de bases de conhecimento em empresas de tecnologia, como Uber e 99Food. No âmbito acadêmico, investiga as relações entre organização do conhecimento, gestão do conhecimento e comunicação organizacional, além de desenvolver análises cientométricas de projetos.
 </p>
