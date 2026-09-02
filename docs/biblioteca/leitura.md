@@ -4,7 +4,7 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
 
 ## Análise de Conteúdo
 
-### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre análise de conteúdo
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre análise de conteúdo
 * CARLOMAGNO, Márcio; ROCHA, Leonardo Caetano da. Como criar e classificar categorias para fazer análise de conteúdo: uma questão metodológica. **Revista Eletrônica de Ciência Política**, Curitiba, v. 7, n. 1, p. 173-188, 2016. DOI: <a href="https://doi.org/10.5380/recp.v7i1.45771" target="_blank">https://doi.org/10.5380/recp.v7i1.45771</a>
 
 * DALLA VALLE, Paulo Roberto; FERREIRA, Jacques de Lima. Análise de conteúdo na perspectiva de Bardin: contribuições e limitações para a pesquisa qualitativa em educação. **Educação em Revista**, Belo Horizonte, v. 41, e49377, 2025. DOI: <a href="https://doi.org/10.1590/0102-469849377" target="_blank">https://doi.org/10.1590/0102-469849377</a>
@@ -13,7 +13,7 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
   
 ## Ciência da Informação
 
-### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre ciência da informação
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre ciência da informação
 * BUCKLAND, Michael Keeble. Information as thing. **Journal of the American Society for Information Science**, v. 42, n. 5, p. 351-360, 1991. Disponível em: <a href="https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291097-4571%28199106%2942%3A5%3C351%3A%3AAID-ASI5%3E3.0.CO%3B2-3" target="_blank">https://asistdl.onlinelibrary.wiley.com</a>
  
 * CAPURRO, Rafael. Epistemologia e Ciência da Informação. *In*: ENCONTRO NACIONAL DE PESQUISA EM CIÊNCIA DA INFORMAÇÃO, 5., 2003, Belo Horizonte. **Anais[...]** Belo Horizonte: UFMG, 2003. Disponível em: <a href="https://www.capurro.de/enancib_p.htm " target="_blank">https://www.capurro.de/enancib_p.htm </a>
@@ -22,7 +22,7 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
  
 ## Construção de Indicadores
 
-### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre construção de indicadores
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre construção de indicadores
 * CMMI INSTITUTE. **CMMI levels of capability and performance**: maturity levels. Pittsburgh: CMMI Institute, 2026. Disponível em: <a href="https://cmmiinstitute.com/learning/appraisals/levels" target="_blank">https://cmmiinstitute.com/learning/appraisals/levels</a>
 
 * NARDO, Michela *et al*. **Handbook on constructing composite indicators**: methodology and user guide. Paris: OECD Publishing, 2008. Disponível em: <a href="https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html?" target="_blank">https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide</a>
@@ -31,7 +31,7 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
 
 ## Estudo Bibliométrico
 
-### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre estudo bibliométrico
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre estudo bibliométrico
 * BARAIBAR-DIEZ, Elisa; LUNA, Manuel; ODRIOZOLA, María Dolores; LLORENTE, Ignacio. Mapping social impact: a bibliometric analysis. **Sustainability**, v.12, n.9389, 2020. DOI: <a href="https://doi.org/10.3390/su12229389" target="_blank">https://doi.org/10.3390/su12229389</a>
 
 * CARRADORE, Marco. A bibliometric analysis on the topic of social policy. **Social Sciences**, v.13, n. 524, p. 1-22, 2024. DOI: <a href="https://doi.org/10.3390/socsci13100524" target="_blank">https://doi.org/10.3390/socsci131005249</a>
@@ -42,7 +42,7 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
 
 ## Integridade Científica
 
-### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre integridade científica
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre integridade científica
 * GUIMARÃES, J. A. C.; HILÁRIO, C. M.; GRÁCIO, M. C. C.. As dimensões do fenômeno produtivismo acadêmico e seu efeito danoso na atividade científica. Em Questão, v. 30, p. e138768, 2024. DOI: <a href="https://doi.org/10.1590/1808-5245.30.138768" target="_blank">https://doi.org/10.1590/1808-5245.30.138768</a>
 
 * MAINARDES, Jefferson. Ética, integridade e cultura de integridade: reflexões a partir do contexto brasileiro. **Horizontes**, v. 41, n. 1, p. e023031, 2023. DOI: <a href="https://doi.org/10.24933/horizontes.v41i1.1624" target="_blank">https://doi.org/10.24933/horizontes.v41i1.1624</a>  
@@ -59,5 +59,21 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
 
 * VASCONCELOS, Sonia Maria Ramos de *et al*. Plagiarism in Brazil: a perspective of 25,000 PhD holders across the sciences. **bioRxiv**, 2019. DOI: <a href="https://doi.org/10.1101/825026" target="_blank">https://doi.org/10.1101/825026</a> 
 
-* VENTURA, Miriam; OLIVEIRA, Suelen Carlos de. Integridade e ética na pesquisa e na publicação científica. **Cadernos de Saúde Pública**, v. 38, n. 1, p. e00283521, 2022. DOI: <a href="https://doi.org/10.1590/0102-311x00283521" target="_blank">https://doi.org/10.1590/0102-311x00283521</a> 
+* VENTURA, Miriam; OLIVEIRA, Suelen Carlos de. Integridade e ética na pesquisa e na publicação científica. **Cadernos de Saúde Pública**, v. 38, n. 1, p. e00283521, 2022. DOI: <a href="https://doi.org/10.1590/0102-311x00283521" target="_blank">https://doi.org/10.1590/0102-311x00283521</a>
+
+## Marketing em Unidades de Informação
+
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre marketing em unidades de informação
+* BRAGANÇA, Fábio Ferreira Coelho; ZACCARIA, Rosana Borges; GIULIANI, Antonio Carlos; PITOMBA, Tereza Cristina Dias de Toledo. Marketing, Criatividade e Inovação em Unidades de Informação. **Revista Brasileira de Marketing**, v. 15, n. 2, p. 237-245, 2016. DOI: <a href="https://doi.org/10.5585/remark.v15i2.3277" target="_blank">https://doi.org/10.5585/remark.v15i2.3277</a>
+
+## Métricas de Remoções e Habitação de Risco
+
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre métricas de remoções e habitação de risco
+* FUNDAÇÃO JOÃO PINHEIRO. **Déficit habitacional no Brasil**. Belo Horizonte: Centro de Estudos Políticos e Sociais, 1995. 345 p. Disponível em: <a href="https://repositorio.fjp.mg.gov.br/items/3b91c77a-e72a-452a-863f-a513b19c853a" target="_blank">https://repositorio.fjp.mg.gov.br/items/3b91c77a</a>
+
+* IBGE. **Nota técnica**: principais diferenças metodológicas entre as pesquisas PME, Pnad e Pnad Contínua. Rio de Janeiro: Instituto Brasileiro de Geografia e Estatística, 2015. Disponível em: <a href="https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Nota_Tecnica/Nota_Tecnica_Diferencas_Metodologicas_das_pesquisas_PNAD_PME_e_PNAD_Continua.pdf" target="_blank">https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua</a>
+
+* MAHARAWAL, Manissa; MCELROY, Erin. The anti-eviction mapping project: counter mapping and oral history toward Bay Area housing justice. **Annals of the American Association of Geographers**, v. 108, n. 2, p. 380-389, 2018. Disponível em: <a href="https://www.tandfonline.com/doi/full/10.1080/24694452.2017.1365583" target="_blank">https://www.tandfonline.com/10.1080</a>
+
+* MIRANDA, Felipe Vilela; ROLNIK, Raquel; SANTOS, Renato Abramowicz; LINS, Regina Dulce. Permanent transitoriness and housing policies: inside São Paulo’s low-income. **Radical Housing Journal**, v. 1, n. 2, p. 27-43, 2019. Disponível em: <a href="https://radicalhousingjournal.org/wp-content/uploads/2019/09/RHJ_Issue-1.2_03_Long-read_Villela-et-al_27-43.pdf" target="_blank">https://radicalhousingjournal.org/wp-content.pdf</a>
 
