@@ -106,7 +106,7 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 ## Racismo
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre racismoㅤ
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre racismo
 
 * ALMEIDA, Silvio Luiz de. **Racismo estrutural**. São Paulo: Sueli Carneiro; Pólen, 2019.
 
