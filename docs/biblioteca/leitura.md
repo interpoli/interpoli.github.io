@@ -90,7 +90,7 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * ALVARENGA NETO, Rivadávia Correa Drummond de; BARBOSA, Ricardo Rodrigues; PEREIRA, Heitor José. Gestão do conhecimento ou gestão de organizações da era do conhecimento? um ensaio teórico-prático a partir de intervenções na realidade brasileira. **Perspectivas em Ciência da Informação**, v. 12, p. 5-24, 2007. Disponível em: <a href="https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP/?format=pdf&lang=pt" target="_blank">https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP</a>
 
-## Organização do Conhecimento ㅤ
+## Políticas Editoriais ㅤ
 
 Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre políticas editoriaisㅤㅤ
 
@@ -104,9 +104,9 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * VILAS BOAS, Raphael Faria. A revisão por pares na visão dos editores das revistas de acesso aberto coletadas pelo Portal oasisbr. **RECIIS**: Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, v. 11, p. 1–11, 2017. DOI: <a href="https://doi.org/10.29397/reciis.v11i0.1405" target="_blank">https://doi.org/10.29397/reciis.v11i0.1405</a>
 
-## Organização do Conhecimento 
+## Racismo 
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre racismoㅤㅤ
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre racismoㅤ
 
 * ALMEIDA, Silvio Luiz de. **Racismo estrutural**. São Paulo: Sueli Carneiro; Pólen, 2019.
 
