@@ -56,7 +56,7 @@ nav:
   - Ciência em Pauta:
       - "Título": ciencia-em-pauta/texto1.md
   - Biblioteca:
-      - "Referências": biblioteca/referencias.md
+      - "Leitura": biblioteca/leitura.md
   - Canais: canais.md
 
 # ==========================================================================
