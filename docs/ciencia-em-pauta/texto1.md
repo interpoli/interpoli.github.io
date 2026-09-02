@@ -1,6 +1,6 @@
 # De onde vêm as regras da ciência? uma discussão sobre integridade científica
 
-**Larissa Alves**
+<span style="font-size: 1.4rem; font-weight: bold; color: #1e366a; display: block; margin-bottom: 10px;">Larissa Alves</span>
 <!-- Ícones das imagens lattes.png e orcid.png abaixo do nome -->
   <div style="display: flex; justify-content: center; gap: 15px;">
     <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration: none;">
