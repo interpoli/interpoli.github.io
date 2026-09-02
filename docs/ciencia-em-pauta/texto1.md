@@ -1,15 +1,14 @@
 # De onde vêm as regras da ciência? uma discussão sobre integridade científica
 
-<span style="font-size: 1.4rem; font-weight: bold; color: #1e366a; display: block; margin-bottom: 10px;">Larissa Alves</span>
-<!-- Ícones das imagens lattes.png e orcid.png abaixo do nome -->
-  <div style="display: flex; justify-content: center; gap: 15px;">
-    <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration: none;">
-      <img src="/lattes.png" alt="Lattes" width="18" height="18" style="vertical-align: middle;">
-    </a>
-    <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration: none;">
-      <img src="/orcid.png" alt="ORCID" width="18" height="18" style="vertical-align: middle;">
-    </a>
-  </div>
+<div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+  <span style="font-size: 1rem; font-weight: bold; color: #1e366a;">Larissa Alves</span>
+  <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration: none; display: flex;">
+    <img src="/lattes.png" alt="Lattes" width="18" height="18">
+  </a>
+  <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration: none; display: flex;">
+    <img src="/orcid.png" alt="ORCID" width="18" height="18">
+  </a>
+</div>
 
 Publicação agendada para 7 de setembro de 2026.
 
