@@ -84,3 +84,32 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * MIRANDA, Felipe Vilela; ROLNIK, Raquel; SANTOS, Renato Abramowicz; LINS, Regina Dulce. Permanent transitoriness and housing policies: inside São Paulo’s low-income. **Radical Housing Journal**, v. 1, n. 2, p. 27-43, 2019. Disponível em: <a href="https://radicalhousingjournal.org/wp-content/uploads/2019/09/RHJ_Issue-1.2_03_Long-read_Villela-et-al_27-43.pdf" target="_blank">https://radicalhousingjournal.org/wp-content.pdf</a>
 
+## Organização do Conhecimento ㅤㅤ
+
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre organização do conhecimentoㅤㅤ
+
+* ALVARENGA NETO, Rivadávia Correa Drummond de; BARBOSA, Ricardo Rodrigues; PEREIRA, Heitor José. Gestão do conhecimento ou gestão de organizações da era do conhecimento? um ensaio teórico-prático a partir de intervenções na realidade brasileira. **Perspectivas em Ciência da Informação**, v. 12, p. 5-24, 2007. Disponível em: <a href="https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP/?format=pdf&lang=pt" target="_blank">https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP</a>
+
+## Políticas Editoriais ㅤㅤ
+
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre políticas editoriaisㅤㅤ
+
+* GALVÃO, Taís Freire; VEÇOSO, Luísa von Zuben. Efeitos da pandemia de COVID-19 no processamento editorial de periódicos brasileiros: inquérito on-line, 2020. *In*: ABEC MEETING LIVE 2021, 2021. **Anais [...]**. [S. l.]: Associação Brasileira de Editores Científicos, 2021. DOI: <a href="https://doi.org/10.21452/abecmeeting2021.10" target="_blank">https://doi.org/10.21452/abecmeeting2021.10</a>
+
+* GASPARYAN, Arsen Yuri; YESSIRKEPOV, Marlen; VORONOV, Andrey A.; KOROLEVA, Anna M.; KITAS, George D. Updated editorial guidance for quality and reliability of research output. **Journal of Korean Medical Science**, v. 33, n. 35, p. e247, 2018. DOI: <a href="https://doi.org/10.3346/jkms.2018.33.e247" target="_blank">https://doi.org/10.3346/jkms.2018.33.e247</a> 
+
+* PERDOMO, Bexi; MORALES, Oscar Alberto. Políticas editoriales de revistas de Comunicación en acceso abierto indexadas en Scopus. **Investigación Bibliotecológica**: Archivonomía, Bibliotecología e Información,  v. 36, n. 93, p. 135-151, 2022. DOI: <a href="https://doi.org/10.22201/iibi.24488321xe.2022.93.58650" target="_blank">https://doi.org/10.22201/iibi.24488321xe.2022.93.58650</a> 
+
+* ŠEVKUŠIĆ, Milica. Defining the editorial policies of Open Access Journals in Serbia and the role of librarians in this process. **Čitalište**, n. 30, p. 13-26, 2017.
+
+* VILAS BOAS, Raphael Faria. A revisão por pares na visão dos editores das revistas de acesso aberto coletadas pelo Portal oasisbr. **RECIIS**: Revista Eletrônica de Comunicação, Informação & Inovação em Saúde, v. 11, p. 1–11, 2017. DOI: <a href="https://doi.org/10.29397/reciis.v11i0.1405" target="_blank">https://doi.org/10.29397/reciis.v11i0.1405</a>
+
+ ## Racismo ㅤㅤ
+
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre racismoㅤㅤ
+
+* ALMEIDA, Silvio Luiz de. **Racismo estrutural**. São Paulo: Sueli Carneiro; Pólen, 2019.
+
+* GARCÊS DA SILVA, Franciele Carneiro; SALDANHA, Gustavo Silva. Brazilian black librarianship: the fight against the epistemicide of black thought in the library profession. **Journal of Critical Library and Information Studies**, v. 4, n. 1, 2022. DOI: <a href="https://doi.org/10.24242/jclis.v4i1.165" target="_blank">https://doi.org/10.24242/jclis.v4i1.165</a> 
+
+* GUIMARÃES, Antonio Sérgio Alfredo. Raças e racismos, junções e disjunções. *Tempo Social*: Revista de Sociologia da USP, São Paulo, v. 36, n. 2, p. 37-59, 2024. DOI: <a href="https://doi.org/10.11606/0103-2070.ts.2024.221936" target="_blank">https://doi.org/10.11606/0103-2070.ts.2024.221936</a> 
