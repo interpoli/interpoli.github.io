@@ -88,8 +88,8 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre organização do conhecimentoㅤㅤ
 
-* ALVARENGA NETO, Rivadávia Correa Drummond de; BARBOSA, Ricardo Rodrigues; PEREIRA, Heitor José. Gestão do conhecimento ou gestão de organizações da era do conhecimento? um ensaio teórico-prático a partir de intervenções na realidade brasileira. **Perspectivas em Ciência da Informação**, v. 12, p. 5-24, 2007. Disponível em: <a href="https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP/?format=pdf&lang=pt" target="_blank">https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP</a>
-
+* ALVARENGA NETO, Rivadávia Correa Drummond de; BARBOSA, Ricardo Rodrigues; PEREIRA, Heitor José. Gestão do conhecimento ou gestão de organizações da era do conhecimento? um ensaio teórico-prático a partir de intervenções na realidade brasileira. **Perspectivas em Ciência da Informação**, v. 12, p. 5-24, 2007. DOI:
+  
 ## Políticas Editoriais ㅤㅤ
 
 Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre políticas editoriais
