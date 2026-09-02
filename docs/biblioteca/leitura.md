@@ -49,9 +49,9 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
 
 * MEJLGAARD, Niels *et al*. Research integrity: nine ways to move from talk to walk. **Nature Human Behaviour**, v. 4, n. 10, p. 1021–1029, 2020. Disponível em: <a href="https://www.nature.com/articles/d41586-020-02847-8" target="_blank">https://www.nature.com/articles/d41586-020-02847-8</a> 
 
-* MERTON, Robert K. **Ensaios de sociologia da ciência**. São Paulo: Editora 34, 2013.
+* MERTON, Robert King. **Ensaios de sociologia da ciência**. São Paulo: Editora 34, 2013.
 
-* MERTON, Robert K. **Teoria social y estructura social**. México: FCE, 1964.
+* MERTON, Robert King. **Teoria social y estructura social**. México: FCE, 1964.
 
 * ROCHA, Ednéia Silva Santos; ANDRADE, Diogo Roberto da Silva. Integridade científica nos periódicos de Ciência da Informação: análise de conteúdo das diretrizes para submissão de artigos. **Transinformação**, v. 35, p. e220017, 2023. DOI: <a href="https://doi.org/10.1590/2318-0889202335e220017" target="_blank">https://doi.org/10.1590/2318-0889202335e220017</a>
 
