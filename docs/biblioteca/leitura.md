@@ -25,7 +25,7 @@ Um espaço de curadoria e compartilhamento de referências sobre temas relaciona
 ### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre construção de indicadores
 * CMMI INSTITUTE. **CMMI levels of capability and performance**: maturity levels. Pittsburgh: CMMI Institute, 2026. Disponível em: <a href="https://cmmiinstitute.com/learning/appraisals/levels" target="_blank">https://cmmiinstitute.com/learning/appraisals/levels</a>
 
-* NARDO, Michela *et al*. **Handbook on constructing composite indicators: methodology and user guide**. Paris: OECD Publishing, 2008. Disponível em: <a href="https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html?" target="_blank">https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide</a>
+* NARDO, Michela *et al*. **Handbook on constructing composite indicators**: methodology and user guide. Paris: OECD Publishing, 2008. Disponível em: <a href="https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html?" target="_blank">https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide</a>
 
 * UCHÔA, Carlos Eduardo. **Elaboração de indicadores de desempenho institucional**. Brasília: ENAP/DDG, 2013. Disponível em: <a href="https://repositorio.enap.gov.br/bitstream/1/2403/1/Elabora%C3%A7%C3%A3o%20de%20indicadores%20de%20desempenho_apostila%20exerc%C3%ADcios.pdf" target="_blank">https://repositorio.enap.gov.br/bitstream/1/2403/1/s</a>
 
