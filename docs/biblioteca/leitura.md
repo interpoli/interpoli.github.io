@@ -90,9 +90,9 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * ALVARENGA NETO, Rivadávia Correa Drummond de; BARBOSA, Ricardo Rodrigues; PEREIRA, Heitor José. Gestão do conhecimento ou gestão de organizações da era do conhecimento? um ensaio teórico-prático a partir de intervenções na realidade brasileira. **Perspectivas em Ciência da Informação**, v. 12, p. 5-24, 2007. Disponível em: <a href="https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP/?format=pdf&lang=pt" target="_blank">https://www.scielo.br/j/pci/a/Mqg8PhhJPdFVTQwyx4gNZMP</a>
 
-## Políticas Editoriais ㅤ
+## Políticas Editoriais ㅤㅤ
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre políticas editoriaisㅤㅤ
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre políticas editoriais
 
 * GALVÃO, Taís Freire; VEÇOSO, Luísa von Zuben. Efeitos da pandemia de COVID-19 no processamento editorial de periódicos brasileiros: inquérito on-line, 2020. *In*: ABEC MEETING LIVE 2021, 2021. **Anais [...]**. [S. l.]: Associação Brasileira de Editores Científicos, 2021. DOI: <a href="https://doi.org/10.21452/abecmeeting2021.10" target="_blank">https://doi.org/10.21452/abecmeeting2021.10</a>
 
