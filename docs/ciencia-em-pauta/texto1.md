@@ -23,8 +23,8 @@ O **Ciência em Pauta** é uma iniciativa do grupo de pesquisa INTERPOLI voltada
 
 O *Ciência em Pauta* também está aberto à colaboração. **Se você tem interesse em compartilhar um texto de divulgação científica de sua autoria e contribuir para a disseminação do conhecimento científico, entre em contato com o INTERPOLI por e-mail**. Nossa equipe analisará a proposta e, caso esteja alinhada aos objetivos da iniciativa, dará continuidade ao processo de publicação em nossos canais.
 
-          A ciência se constrói em diálogo. E nossa conversa continua.
-                        Grupo de Pesquisa INTERPOLI
+                A ciência se constrói em diálogo. E nossa conversa continua.
+                              Grupo de Pesquisa INTERPOLI
 </p>
 
 
