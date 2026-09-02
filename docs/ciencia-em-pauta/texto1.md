@@ -19,7 +19,14 @@ Publicação agendada para 7 de setembro de 2026.
 
 # Sobre o quadro *Ciência em Pauta*
 
-  O quadro tem como objetivo
+O **Ciência em Pauta** é uma iniciativa do grupo de pesquisa INTERPOLI voltada à divulgação científica e à aproximação entre o conhecimento acadêmico e a sociedade. Nossa proposta é apresentar conceitos, pesquisas e discussões científicas de forma clara, acessível e responsável, contribuindo para a democratização do conhecimento e para o fortalecimento do diálogo entre ciência e sociedade.
+
+O *Ciência em Pauta* também está aberto à colaboração. **Se você tem interesse em compartilhar um texto de divulgação científica de sua autoria e contribuir para a disseminação do conhecimento científico, entre em contato com o INTERPOLI por e-mail**. Nossa equipe analisará a proposta e, caso esteja alinhada aos objetivos da iniciativa, dará continuidade ao processo de publicação em nossos canais.
+
+A ciência se constrói em diálogo. 
+E nossa conversa continua.
+
+- Grupo de Pesquisa INTERPOLI
 </p>
 
 
