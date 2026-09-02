@@ -1,17 +1,13 @@
-# Leituras
+# Leitura
 
-Aqui você encontra os indicações de leitura e referências sobre diferentes temas abordados pelo Grupo de Pesquisa INTERPOLI.
+Um espaço de curadoria e compartilhamento de referências sobre temas relacionados às pesquisas e discussões do Grupo de Pesquisa INTERPOLI. Explore nossas indicações de leitura e conheça diferentes perspectivas sobre ciência, ética, integridade científica, políticas de CT&I e outros temas.
 
-## Contato e Diretório
+## Ética na Ciência
 
-### Informações de Contato
-* **E-mail:** [interpoli@usp.br](mailto:interpoli@usp.br) / [edneia@usp.br](mailto:edneia@usp.br)
-* **Instagram:** <a href="https://www.instagram.com/interpoliusp/" target="_blank">@interpoliusp</a>
+### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre ética científica
+* SANTOS D'AMORIM, Karen; MACEDO DOS SANTOS, Raimundo Nonato. Integridad en la investigación científica: temas fundamentales y emergentes. **Biblios Journal of Librarianship and Information Science**, n. 88, p. e002, 2025. DOI: <a href="https://doi.org/10.5195/biblios.2025.1217" target="_blank">https://doi.org/10.5195/biblios.2025.1217</a>
+  
+## Integridade
 
-### Registro Institucional
-* **Programa de Pós-Graduação Vinculado:** <a href="https://www.eca.usp.br/pos/programa-de-pos-graduacao-em-ciencia-da-informacao" target="_blank">Programa de Pós-Graduação em Ciência da Informação (PPGCI)</a>
-* **Diretório de Grupos de Pesquisa (CNPq) - Brasil:** <a href="http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013" target="_blank">Espelho do Grupo no CNPq</a>
-* **Instituição de Vínculo:** Universidade de São Paulo (USP)
-* **Área predominante:** Ciências Sociais Aplicadas; Ciência da Informação
-* **Unidade:** Faculdade de Filosofia Ciências e Letras de Ribeirão Preto (FFCLRP)
-* **Endereço:** Av. Bandeirantes, 3900 - Campus da USP, Ribeirão Preto - SP, CEP 14040-900
+### Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre ética científica
+* SANTOS D'AMORIM, Karen; MACEDO DOS SANTOS, Raimundo Nonato. Integridad en la investigación científica: temas fundamentales y emergentes. **Biblios Journal of Librarianship and Information Science**, n. 88, p. e002, 2025. DOI: <a href="https://doi.org/10.5195/biblios.2025.1217" target="_blank">https://doi.org/10.5195/biblios.2025.1217</a>
