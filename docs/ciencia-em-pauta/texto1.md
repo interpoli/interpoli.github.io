@@ -26,7 +26,7 @@ O *Ciência em Pauta* também está aberto à colaboração. **Se você tem inte
 A ciência se constrói em diálogo. 
 E nossa conversa continua.
 
-- Grupo de Pesquisa INTERPOLI
+                                                                                                                        Grupo de Pesquisa INTERPOLI
 </p>
 
 
