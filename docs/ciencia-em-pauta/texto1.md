@@ -1,4 +1,4 @@
-# Título do texto
+# De onde vêm as regras da ciência? uma discussão sobre integridade científica
 
 **Larissa Alves** <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration:none;"><img src="docs/orcid.png" width="18" height="18" alt="ORCID" style="vertical-align:middle; margin-left:4px;"></a> <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration:none;"><img src="docs/lattes.png" width="18" height="18" alt="Lattes" style="vertical-align:middle; margin-left:2px;"></a>
 
