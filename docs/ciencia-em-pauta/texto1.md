@@ -1,7 +1,15 @@
 # De onde vêm as regras da ciência? uma discussão sobre integridade científica
 
-**Larissa Alves** <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration:none;"><img src="docs/orcid.png" width="18" height="18" alt="ORCID" style="vertical-align:middle; margin-left:4px;"></a> <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration:none;"><img src="docs/lattes.png" width="18" height="18" alt="Lattes" style="vertical-align:middle; margin-left:2px;"></a>
-
+**Larissa Alves**
+<!-- Ícones das imagens lattes.png e orcid.png abaixo do nome -->
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <a href="http://lattes.cnpq.br/5714545457389700" target="_blank" style="text-decoration: none;">
+      <img src="/lattes.png" alt="Lattes" width="18" height="18" style="vertical-align: middle;">
+    </a>
+    <a href="https://orcid.org/0000-0002-0563-8172" target="_blank" style="text-decoration: none;">
+      <img src="/orcid.png" alt="ORCID" width="18" height="18" style="vertical-align: middle;">
+    </a>
+  </div>
 
 Publicação agendada para 7 de setembro de 2026.
 
@@ -15,8 +23,8 @@ O **Ciência em Pauta** é uma iniciativa do grupo de pesquisa INTERPOLI voltada
 
 O *Ciência em Pauta* também está aberto à colaboração. **Se você tem interesse em compartilhar um texto de divulgação científica de sua autoria e contribuir para a disseminação do conhecimento científico, entre em contato com o INTERPOLI por e-mail**. Nossa equipe analisará a proposta e, caso esteja alinhada aos objetivos da iniciativa, dará continuidade ao processo de publicação em nossos canais.
 
-                      A ciência se constrói em diálogo. E nossa conversa continua.
-                                    Grupo de Pesquisa INTERPOLI
+          A ciência se constrói em diálogo. E nossa conversa continua.
+                        Grupo de Pesquisa INTERPOLI
 </p>
 
 
