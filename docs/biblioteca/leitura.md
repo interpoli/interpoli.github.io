@@ -84,12 +84,13 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * MIRANDA, Felipe Vilela; ROLNIK, Raquel; SANTOS, Renato Abramowicz; LINS, Regina Dulce. Permanent transitoriness and housing policies: inside São Paulo’s low-income. **Radical Housing Journal**, v. 1, n. 2, p. 27-43, 2019. Disponível em: <a href="https://radicalhousingjournal.org/wp-content/uploads/2019/09/RHJ_Issue-1.2_03_Long-read_Villela-et-al_27-43.pdf" target="_blank">https://radicalhousingjournal.org/wp-content.pdf</a>
 
-## Organização do Conhecimento ㅤㅤ
+## Organização do Conhecimento
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre organização do conhecimentoㅤㅤ
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre organização do conhecimento
 
 * ALVARENGA NETO, Rivadávia Correa Drummond de; BARBOSA, Ricardo Rodrigues; PEREIRA, Heitor José. Gestão do conhecimento ou gestão de organizações da era do conhecimento? um ensaio teórico-prático a partir de intervenções na realidade brasileira. **Perspectivas em Ciência da Informação**, v. 12, p. 5-24, 2007. DOI:
-## Políticas Editoriais ㅤㅤ
+
+## Políticas Editoriais
 
 Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre políticas editoriais
 
