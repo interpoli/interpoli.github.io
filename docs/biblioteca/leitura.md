@@ -1,19 +1,21 @@
-# Leitura
+# Leituraㅤㅤ
 
-Um espaço de curadoria e compartilhamento de referências sobre temas relacionados às pesquisas e discussões do Grupo de Pesquisa INTERPOLI. Explore nossas indicações de leitura e conheça diferentes perspectivas sobre integridade científica, políticas de CT&I, políticas editoriais e outros temas.
+Um espaço de curadoria e compartilhamento de referências sobre temas relacionados às pesquisas e discussões do Grupo de Pesquisa INTERPOLI. Explore nossas indicações de leitura e conheça diferentes perspectivas sobre integridade científica, políticas de CT&I, políticas editoriais e outros temas.ㅤㅤ
 
-## Análise de Conteúdo
+## Análise de Conteúdoㅤㅤ
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre análise de conteúdo
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre análise de conteúdoㅤㅤ
+
 * CARLOMAGNO, Márcio; ROCHA, Leonardo Caetano da. Como criar e classificar categorias para fazer análise de conteúdo: uma questão metodológica. **Revista Eletrônica de Ciência Política**, Curitiba, v. 7, n. 1, p. 173-188, 2016. DOI: <a href="https://doi.org/10.5380/recp.v7i1.45771" target="_blank">https://doi.org/10.5380/recp.v7i1.45771</a>
 
 * DALLA VALLE, Paulo Roberto; FERREIRA, Jacques de Lima. Análise de conteúdo na perspectiva de Bardin: contribuições e limitações para a pesquisa qualitativa em educação. **Educação em Revista**, Belo Horizonte, v. 41, e49377, 2025. DOI: <a href="https://doi.org/10.1590/0102-469849377" target="_blank">https://doi.org/10.1590/0102-469849377</a>
 
 * SOUSA, José Raul de; SANTOS, Simone Cabral Marinho dos. Análise de conteúdo em pesquisa qualitativa: modo de pensar e de fazer. **Pesquisa e Debate em Educação**, v. 10, n. 2, p. 1396–1416, 2020. DOI: <a href="https://doi.org/10.34019/2237-9444.2020.v10.31559" target="_blank">https://doi.org/10.34019/2237-9444.2020.v10.31559</a>
   
-## Ciência da Informação
+## Ciência da Informação ㅤㅤ
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre ciência da informação
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre ciência da informaçãoㅤㅤ
+
 * BUCKLAND, Michael Keeble. Information as thing. **Journal of the American Society for Information Science**, v. 42, n. 5, p. 351-360, 1991. Disponível em: <a href="https://asistdl.onlinelibrary.wiley.com/doi/epdf/10.1002/%28SICI%291097-4571%28199106%2942%3A5%3C351%3A%3AAID-ASI5%3E3.0.CO%3B2-3" target="_blank">https://asistdl.onlinelibrary.wiley.com</a>
  
 * CAPURRO, Rafael. Epistemologia e Ciência da Informação. *In*: ENCONTRO NACIONAL DE PESQUISA EM CIÊNCIA DA INFORMAÇÃO, 5., 2003, Belo Horizonte. **Anais[...]** Belo Horizonte: UFMG, 2003. Disponível em: <a href="https://www.capurro.de/enancib_p.htm " target="_blank">https://www.capurro.de/enancib_p.htm </a>
@@ -22,16 +24,18 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
  
 ## Construção de Indicadores
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre construção de indicadores
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre construção de indicadores ㅤㅤ
+
 * CMMI INSTITUTE. **CMMI levels of capability and performance**: maturity levels. Pittsburgh: CMMI Institute, 2026. Disponível em: <a href="https://cmmiinstitute.com/learning/appraisals/levels" target="_blank">https://cmmiinstitute.com/learning/appraisals/levels</a>
 
 * NARDO, Michela *et al*. **Handbook on constructing composite indicators**: methodology and user guide. Paris: OECD Publishing, 2008. Disponível em: <a href="https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide_9789264043466-en.html?" target="_blank">https://www.oecd.org/en/publications/handbook-on-constructing-composite-indicators-methodology-and-user-guide</a>
 
 * UCHÔA, Carlos Eduardo. **Elaboração de indicadores de desempenho institucional**. Brasília: ENAP/DDG, 2013. Disponível em: <a href="https://repositorio.enap.gov.br/bitstream/1/2403/1/Elabora%C3%A7%C3%A3o%20de%20indicadores%20de%20desempenho_apostila%20exerc%C3%ADcios.pdf" target="_blank">https://repositorio.enap.gov.br/bitstream/1/2403/1/s</a>
 
-## Estudo Bibliométrico
+## Estudo Bibliométricoㅤㅤ
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre estudo bibliométrico
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre estudo bibliométricoㅤㅤ
+
 * BARAIBAR-DIEZ, Elisa; LUNA, Manuel; ODRIOZOLA, María Dolores; LLORENTE, Ignacio. Mapping social impact: a bibliometric analysis. **Sustainability**, v.12, n.9389, 2020. DOI: <a href="https://doi.org/10.3390/su12229389" target="_blank">https://doi.org/10.3390/su12229389</a>
 
 * CARRADORE, Marco. A bibliometric analysis on the topic of social policy. **Social Sciences**, v.13, n. 524, p. 1-22, 2024. DOI: <a href="https://doi.org/10.3390/socsci13100524" target="_blank">https://doi.org/10.3390/socsci131005249</a>
@@ -42,7 +46,8 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 ## Integridade Científica
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre integridade científica
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre integridade científica ㅤㅤ
+
 * GUIMARÃES, J. A. C.; HILÁRIO, C. M.; GRÁCIO, M. C. C.. As dimensões do fenômeno produtivismo acadêmico e seu efeito danoso na atividade científica. Em Questão, v. 30, p. e138768, 2024. DOI: <a href="https://doi.org/10.1590/1808-5245.30.138768" target="_blank">https://doi.org/10.1590/1808-5245.30.138768</a>
 
 * MAINARDES, Jefferson. Ética, integridade e cultura de integridade: reflexões a partir do contexto brasileiro. **Horizontes**, v. 41, n. 1, p. e023031, 2023. DOI: <a href="https://doi.org/10.24933/horizontes.v41i1.1624" target="_blank">https://doi.org/10.24933/horizontes.v41i1.1624</a>  
@@ -61,14 +66,16 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * VENTURA, Miriam; OLIVEIRA, Suelen Carlos de. Integridade e ética na pesquisa e na publicação científica. **Cadernos de Saúde Pública**, v. 38, n. 1, p. e00283521, 2022. DOI: <a href="https://doi.org/10.1590/0102-311x00283521" target="_blank">https://doi.org/10.1590/0102-311x00283521</a>
 
-## Marketing em Unidades de Informação
+## Marketing em Unidades de Informação ㅤㅤ
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre marketing em unidades de informação
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre marketing em unidades de informação ㅤㅤ
+
 * BRAGANÇA, Fábio Ferreira Coelho; ZACCARIA, Rosana Borges; GIULIANI, Antonio Carlos; PITOMBA, Tereza Cristina Dias de Toledo. Marketing, Criatividade e Inovação em Unidades de Informação. **Revista Brasileira de Marketing**, v. 15, n. 2, p. 237-245, 2016. DOI: <a href="https://doi.org/10.5585/remark.v15i2.3277" target="_blank">https://doi.org/10.5585/remark.v15i2.3277</a>
 
-## Métricas de Remoções e Habitação de Risco
+## Métricas de Remoções e Habitação de Risco ㅤㅤ
 
-Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre métricas de remoções e habitação de risco
+Indicações de livros, artigos e documentos para conhecer diferentes perspectivas sobre métricas de remoções e habitação de riscoㅤㅤ
+
 * FUNDAÇÃO JOÃO PINHEIRO. **Déficit habitacional no Brasil**. Belo Horizonte: Centro de Estudos Políticos e Sociais, 1995. 345 p. Disponível em: <a href="https://repositorio.fjp.mg.gov.br/items/3b91c77a-e72a-452a-863f-a513b19c853a" target="_blank">https://repositorio.fjp.mg.gov.br/items/3b91c77a</a>
 
 * IBGE. **Nota técnica**: principais diferenças metodológicas entre as pesquisas PME, Pnad e Pnad Contínua. Rio de Janeiro: Instituto Brasileiro de Geografia e Estatística, 2015. Disponível em: <a href="https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua/Nota_Tecnica/Nota_Tecnica_Diferencas_Metodologicas_das_pesquisas_PNAD_PME_e_PNAD_Continua.pdf" target="_blank">https://ftp.ibge.gov.br/Trabalho_e_Rendimento/Pesquisa_Nacional_por_Amostra_de_Domicilios_continua</a>
