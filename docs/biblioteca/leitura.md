@@ -50,7 +50,7 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * BERTIN, Patrícia Rocha Bello; VISOLI, Marcos Cezar; DRUCKER, Debora Pignatari. A gestão de dados de pesquisa no contexto da e-science: benefícios, desafios e oportunidades para organizações de P&D. **Ponto de Acesso**, Salvador, v. 11, n. 2, p. 34-48, 2017. Disponível em: <a href="https://brapci.inf.br/v/81812" target="_blank">https://brapci.inf.br/v/81812</a>
 
-* BORGMAN, Christine L. **Big data, little data, no data: scholarship in the networked world**. Cambridge: The MIT Press, 2015. 383 p.
+* BORGMAN, Christine L. **Big data, little data, no data**: scholarship in the networked world. Cambridge: The MIT Press, 2015. 383 p.
 
 * BORGMAN, Christine L. *et al*. Knowledge infrastructures in science: data, diversity, and digital libraries. **International Journal on Digital Libraries**, California, v. 16, p. 207-227, 2015. Disponível em: <a href="https://escholarship.org/uc/item/3mp3356m" target="_blank">https://escholarship.org/uc/item/3mp3356m</a>
 
@@ -60,11 +60,11 @@ Indicações de livros, artigos e documentos para conhecer diferentes perspectiv
 
 * SALES, Luana Farias; SAYÃO, Luis Fernando. **Dados de pesquisa**: quem ama cuida. Brasília: Comissão Nacional de Energia Nuclear (Brasil): IBICT, 2019. 23 p. Disponível em: <a href="https://livroaberto.ibict.br/bitstream/123456789/1083/2/cartilha%20dados%20de%20pesquisa.pdf" target="_blank">https://livroaberto.ibict.br/bitstream/123456789</a>
 
-* SAYÃO, Luis Fernando; SALES, Luana Farias. Afinal, o que é dado de pesquisa?. **Biblos: Revista do Instituto de Ciências Humanas e da Informação**, Rio Grande, v. 34, n. 2, p. 32-51, 2020. Disponível em: <a href="https://periodicos.furg.br/biblos/article/view/11875" target="_blank">https://periodicos.furg.br/biblos/article/view/11875</a>
+* SAYÃO, Luis Fernando; SALES, Luana Farias. Afinal, o que é dado de pesquisa?. **Biblos**: Revista do Instituto de Ciências Humanas e da Informação, Rio Grande, v. 34, n. 2, p. 32-51, 2020. Disponível em: <a href="https://periodicos.furg.br/biblos/article/view/11875" target="_blank">https://periodicos.furg.br/biblos/article/view/11875</a>
 
-* SAYÃO, Luis Fernando; SALES, Luana Farias. Curadoria digital e dados de pesquisa. **AtoZ: novas práticas em informação e conhecimento**, Paraná, v. 5, n. 2, p. 67-71, 2016. Disponível em: <a href="https://revistas.ufpr.br/atoz/article/view/49708" target="_blank">https://revistas.ufpr.br/atoz/article/view/49708</a>
+* SAYÃO, Luis Fernando; SALES, Luana Farias. Curadoria digital e dados de pesquisa. **AtoZ**: novas práticas em informação e conhecimento, Paraná, v. 5, n. 2, p. 67-71, 2016. Disponível em: <a href="https://revistas.ufpr.br/atoz/article/view/49708" target="_blank">https://revistas.ufpr.br/atoz/article/view/49708</a>
 
-* SAYÃO, Luis Fernando; SALES, Luana Farias. Curadoria digital: um novo patamar para preservação de dados digitais de pesquisa. **Informação & Sociedade**, João Pessoa, v. 22, n. 3, p. 179-191, 2012. Disponível em: <a href="https://periodicos.ufpb.br/ojs/index.php/ies/article/view/12224" target="_blank">https://periodicos.ufpb.br/ojs/index.php/ies/article/view/12224</a>
+* SAYÃO, Luis Fernando; SALES, Luana Farias. Curadoria digital: um novo patamar para preservação de dados digitais de pesquisa. **Informação & Sociedade**, João Pessoa, v. 22, n. 3, p. 179-191, 2012. Disponível em: <a href="https://periodicos.ufpb.br/index.php/ies/article/view/12224" target="_blank">https://periodicos.ufpb.br/index.php/ies/article/view/12224</a>
 
 * SAYÃO, Luis Fernando; SALES, Luana Farias. Dados de pesquisa: contribuições para o estabelecimento de um modelo de curadoria de dados para o país. **Tendências da Pesquisa Brasileira em Ciência da Informação**, São Paulo, v. 6, n. 1, p. 1-26, 2013. Disponível em: <a href="https://brapci.inf.br/index.php/res/v/119469" target="_blank">https://brapci.inf.br/index.php/res/v/119469</a>
 
