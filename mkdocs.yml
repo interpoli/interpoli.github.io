@@ -9,15 +9,13 @@ theme:
   logo: assets/logo-branco.png    # Esse altera o ícone de livro da barra azul para o logo branco
   favicon: assets/logo.png        # Esse altera o ícone de livro da aba do Google para o logo escuro
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
+    - scheme: default
       primary: custom
       accent: blue
       toggle:
         icon: material/brightness-7
         name: Mudar para modo escuro
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
+    - scheme: slate
       primary: custom
       accent: blue
       toggle:
