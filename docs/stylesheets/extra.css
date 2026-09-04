@@ -226,3 +226,47 @@
 #__drawer:checked ~ .md-container .md-sidebar--primary {
   display: block !important;
 }
+
+/* ==========================================================================
+   CORREÇÃO DE CONTRASTE E ACESSIBILIDADE PARA A HOMEPAGE
+   ========================================================================== */
+
+/* Força as cores legíveis nos textos do banner inicial */
+.home-banner .home-title {
+  color: #1e366a !important;
+}
+
+.home-banner .home-subtitle {
+  color: #0c2340 !important;
+}
+
+/* Força as cores legíveis no bloco Sobre o Grupo e suas listas/parágrafos */
+.home-about {
+  background-color: #ffffff !important;
+  color: #0c2340 !important;
+}
+
+.home-about h1, 
+.home-about h2, 
+.home-about h3, 
+.home-about h4, 
+.home-about p, 
+.home-about li, 
+.home-about span, 
+.home-about strong {
+  color: #0c2340 !important;
+}
+
+/* Garante o fundo claro do banner e a visibilidade da caixa de rodapé */
+.home-banner {
+  background-color: #e6f0fa !important;
+}
+
+.home-footer-box {
+  background-color: #e5e5e5 !important;
+  color: #1e366a !important;
+}
+
+.home-footer-box h3 {
+  color: #1e366a !important;
+}
