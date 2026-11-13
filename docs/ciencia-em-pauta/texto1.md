@@ -10,7 +10,7 @@
   </a>
 </div>
 
-Publicação agendada para 7 de outubro de 2026.
+Publicação agendada.
 
 ### Referências
 
