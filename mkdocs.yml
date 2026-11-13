@@ -68,7 +68,7 @@ extra:
   
   social:
     - icon: material/database      # Ícone do CNPq
-      link: http://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
+      link: https://dgp.cnpq.br/dgp/espelhogrupo/5518890102674013
       name: Diretório de Grupos de Pesquisa (CNPq)
     - icon: material/email
       link: https://interpoli.github.io/canais/
